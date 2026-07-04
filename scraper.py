@@ -191,11 +191,11 @@ def get_books_for_subject(subject_id, subject_name):
 # STAGE 3: Recursive tree expansion
 # ============================================================
 def expand_tree_node(book_id, node_id):
-    sections = []
+    items = []
     ajax_url = f"{AJAX_BASE}/nindex.php?id={node_id}&treeLevel=1&bookid={book_id}&page=bookssubtree"
     resp = safe_get(ajax_url)
     if not resp:
-        return sections
+        return items
     soup = BeautifulSoup(resp.text, "lxml")
     for a in soup.select("a[href*='/ar/library/content/']"):
         href = a.get("href", "")
@@ -203,7 +203,7 @@ def expand_tree_node(book_id, node_id):
         a_id = a.get("id", "")
         pagenum_m = re.search(r'/content/\d+/(\d+)/', href)
         pagenum = int(pagenum_m.group(1)) if pagenum_m else None
-        sections.append({
+        items.append({
             "id": int(a_id) if a_id.isdigit() else a_id,
             "title": title,
             "pagenum": pagenum,
@@ -211,9 +211,14 @@ def expand_tree_node(book_id, node_id):
         })
     for label in soup.select("label.tree_label[data-level]"):
         child_id = label.get("data-id", "")
+        title = label.get_text(strip=True)
         if child_id:
-            sections.extend(expand_tree_node(book_id, child_id))
-    return sections
+            items.append({
+                "id": int(child_id) if child_id.isdigit() else child_id,
+                "title": title,
+                "sections": expand_tree_node(book_id, child_id),
+            })
+    return items
 
 def get_book_tree(book_id):
     url = f"{BASE_URL}/content/{book_id}/1"
@@ -283,18 +288,26 @@ def scrape_book(book_info):
         print(f"  FAILED: book page", flush=True)
         return None
 
-    all_sections = [(ch["title"], sec) for ch in chapters for sec in ch["sections"]]
-    print(f"  Tree: {len(chapters)} chapters, {len(all_sections)} sections", flush=True)
+    def collect_leaves(nodes):
+        leaves = []
+        for n in nodes:
+            if "url" in n:
+                leaves.append(n)
+            if "sections" in n:
+                leaves.extend(collect_leaves(n["sections"]))
+        return leaves
+    all_sections = collect_leaves(chapters)
+    leaf_count = len(all_sections)
+    print(f"  Tree: {len(chapters)} chapters, {leaf_count} leaf sections", flush=True)
 
     results = []
     done_lock = threading.Lock()
     done_count = 0
-    total = len(all_sections)
+    total = leaf_count
     t0 = time.time()
 
-    def fetch_section(item):
+    def fetch_section(sec):
         nonlocal done_count
-        ch_title, sec = item
         text, text_t, html_text, html_text_t = fetch_content(sec["url"], with_html=True)
         sec["content"] = text
         sec["content_with_tashkeel"] = text_t
@@ -308,27 +321,21 @@ def scrape_book(book_info):
             rate = n / elapsed if elapsed > 0 else 0
             eta = (total - n) / rate if rate > 0 else 0
             print(f"  [{n}/{total}] {rate:.1f}/s, ETA {eta:.0f}s - {sec['title'][:40]}", flush=True)
-        return ch_title, sec
 
     with ThreadPoolExecutor(max_workers=4) as executor:
-        futures = {executor.submit(fetch_section, item): item for item in all_sections}
+        futures = {executor.submit(fetch_section, sec): sec for sec in all_sections}
         for f in as_completed(futures):
-            ch_title, sec = f.result()
-            results.append((ch_title, sec))
+            f.result()
 
-    chapters_out = {}
-    for ch_title, sec in results:
-        chapters_out.setdefault(ch_title, {"title": ch_title, "sections": []})
-        chapters_out[ch_title]["sections"].append(sec)
     result = {
         "book": book_info,
-        "chapters": list(chapters_out.values()),
+        "chapters": chapters,
     }
 
     with open(cache_file, "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
+        json.dump(result, f, ensure_ascii=False, indent=2, default=str)
     elapsed = time.time() - t0
-    total_chars = sum(len(s.get("content","")) for c in result["chapters"] for s in c["sections"])
+    total_chars = sum(len(s.get("content","")) for s in all_sections)
     print(f"  Saved ({elapsed:.0f}s, {total_chars:,} chars)", flush=True)
     return result
 
@@ -343,7 +350,15 @@ def refresh_book(book_id):
     with open(cache_file) as f:
         data = json.load(f)
 
-    all_sections = [(ch["title"], sec) for ch in data["chapters"] for sec in ch["sections"]]
+    def collect_leaves(nodes):
+        leaves = []
+        for n in nodes:
+            if "url" in n:
+                leaves.append(n)
+            if "sections" in n:
+                leaves.extend(collect_leaves(n["sections"]))
+        return leaves
+    all_sections = collect_leaves(data.get("chapters", []))
     print(f"Refreshing {len(all_sections)} sections for book {book_id}...", flush=True)
 
     results = []
@@ -352,12 +367,10 @@ def refresh_book(book_id):
     total = len(all_sections)
     t0 = time.time()
 
-    def fetch_section(item):
+    def fetch_section(sec):
         nonlocal done_count
-        ch_title, sec = item
-        if "content_with_tashkeel_html" in sec:
-            del sec["content_html"]
-            del sec["content_with_tashkeel_html"]
+        sec.pop("content_html", None)
+        sec.pop("content_with_tashkeel_html", None)
         text, text_t, html_text, html_text_t = fetch_content(sec["url"], with_html=True)
         sec["content"] = text
         sec["content_with_tashkeel"] = text_t
@@ -371,17 +384,14 @@ def refresh_book(book_id):
             rate = n / elapsed if elapsed > 0 else 0
             eta = (total - n) / rate if rate > 0 else 0
             print(f"  [{n}/{total}] {rate:.1f}/s, ETA {eta:.0f}s", flush=True)
-        return (ch_title, sec)
 
     with ThreadPoolExecutor(max_workers=4) as executor:
-        futures = {executor.submit(fetch_section, item): item for item in all_sections}
+        futures = {executor.submit(fetch_section, sec): sec for sec in all_sections}
         for f in as_completed(futures):
-            r = f.result()
-            if r:
-                results.append(r)
+            f.result()
 
     with open(cache_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=2, default=str)
     elapsed = time.time() - t0
     print(f"Refresh done ({elapsed:.0f}s)", flush=True)
     return data
