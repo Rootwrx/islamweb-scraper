@@ -111,7 +111,12 @@ def clean_html(html_content):
         else:
             span.unwrap()
     for font in soup.find_all("font"):
-        font.unwrap()
+        c = font.get("color", "")
+        if c and re.match(r'^#[0-9a-fA-F]{6}$', c):
+            font.name = "span"
+            font.attrs = {"class": f"fc_{c}"}
+        else:
+            font.unwrap()
     for tag in soup.find_all(style=re.compile(r'display\s*:\s*none', re.I)):
         if tag.name != "span":
             del tag["style"]
@@ -261,7 +266,7 @@ def get_book_tree(book_id):
 def fetch_content(section_url, with_html=False):
     resp = safe_get(section_url)
     if not resp:
-        return "", "", "", ""
+        return "", "", "", "", None
     soup = BeautifulSoup(resp.text, "lxml")
     pagebody = soup.select_one("#pagebody")
     pagebody_tashkeel = soup.select_one("#pagebody_thaskeel")
@@ -269,7 +274,13 @@ def fetch_content(section_url, with_html=False):
     text_t = clean_text(str(pagebody_tashkeel)) if pagebody_tashkeel else ""
     html_text = clean_html(str(pagebody)) if pagebody and with_html else ""
     html_text_t = clean_html(str(pagebody_tashkeel)) if pagebody_tashkeel and with_html else ""
-    return text, text_t, html_text, html_text_t
+    part_el = soup.select_one(".partdropmenu .dropdown-toggle, .partdropmenu a")
+    part = None
+    if part_el:
+        txt = part_el.get_text(strip=True)
+        if txt.isdigit():
+            part = int(txt)
+    return text, text_t, html_text, html_text_t, part
 
 # ============================================================
 # STAGE 5: Full book scrape
@@ -308,11 +319,12 @@ def scrape_book(book_info):
 
     def fetch_section(sec):
         nonlocal done_count
-        text, text_t, html_text, html_text_t = fetch_content(sec["url"], with_html=True)
+        text, text_t, html_text, html_text_t, part = fetch_content(sec["url"], with_html=True)
         sec["content"] = text
         sec["content_with_tashkeel"] = text_t
         sec["content_html"] = html_text
         sec["content_with_tashkeel_html"] = html_text_t
+        if part is not None: sec["part"] = part
         with done_lock:
             done_count += 1
             n = done_count
@@ -342,7 +354,7 @@ def scrape_book(book_info):
 # ============================================================
 # REFRESH: re-fetch content to add HTML fields
 # ============================================================
-def refresh_book(book_id):
+def refresh_book(book_id, checkpoint_every=500):
     cache_file = OUTPUT_DIR / f"book_{book_id}.json"
     if not cache_file.exists():
         print(f"No cache for book {book_id}")
@@ -361,21 +373,33 @@ def refresh_book(book_id):
     all_sections = collect_leaves(data.get("chapters", []))
     print(f"Refreshing {len(all_sections)} sections for book {book_id}...", flush=True)
 
-    results = []
+    # Skip sections already updated (have fc_ spans)
+    need_refresh = []
+    for s in all_sections:
+        html = s.get("content_with_tashkeel_html", "")
+        if "fc_" in html:
+            continue
+        need_refresh.append(s)
+    skipped = len(all_sections) - len(need_refresh)
+    if skipped:
+        print(f"  {skipped} already up-to-date, {len(need_refresh)} to refresh", flush=True)
+
     done_count = 0
+    last_save = 0
     done_lock = threading.Lock()
-    total = len(all_sections)
+    total = len(need_refresh)
     t0 = time.time()
 
     def fetch_section(sec):
-        nonlocal done_count
+        nonlocal done_count, last_save
         sec.pop("content_html", None)
         sec.pop("content_with_tashkeel_html", None)
-        text, text_t, html_text, html_text_t = fetch_content(sec["url"], with_html=True)
+        text, text_t, html_text, html_text_t, part = fetch_content(sec["url"], with_html=True)
         sec["content"] = text
         sec["content_with_tashkeel"] = text_t
         sec["content_html"] = html_text
         sec["content_with_tashkeel_html"] = html_text_t
+        if part is not None: sec["part"] = part
         with done_lock:
             done_count += 1
             n = done_count
@@ -384,9 +408,15 @@ def refresh_book(book_id):
             rate = n / elapsed if elapsed > 0 else 0
             eta = (total - n) / rate if rate > 0 else 0
             print(f"  [{n}/{total}] {rate:.1f}/s, ETA {eta:.0f}s", flush=True)
+        if checkpoint_every and (n - last_save) >= checkpoint_every:
+            with done_lock:
+                with open(cache_file, "w", encoding="utf-8") as f:
+                    json.dump(data, f, ensure_ascii=False, indent=2, default=str)
+                last_save = n
+                print(f"  checkpoint saved ({n}/{total})", flush=True)
 
     with ThreadPoolExecutor(max_workers=4) as executor:
-        futures = {executor.submit(fetch_section, sec): sec for sec in all_sections}
+        futures = {executor.submit(fetch_section, sec): sec for sec in need_refresh}
         for f in as_completed(futures):
             f.result()
 
@@ -464,6 +494,18 @@ def scrape_single(book_id):
             if sn and sn not in ("", "قائمة الكتب"):
                 subject_name = sn
                 break
+    # Fallback: scan subjects list to find this book
+    if not subject_name:
+        subs = get_subjects()
+        for sub in subs:
+            books = get_books_for_subject(sub["id"], sub["name"])
+            for b in books:
+                if b["book_id"] == book_id:
+                    subject_name = sub["name"]
+                    break
+            if subject_name:
+                break
+            time.sleep(0.3)
     book_info = {
         "book_id": book_id,
         "title": title,

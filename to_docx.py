@@ -163,6 +163,10 @@ def add_run(para, text, bold=False, color=None, size=None):
 
 # ── HTML parser ────────────────────────────────────────────
 
+FONT_COLOR_MAP = {
+    "#800080": (128, 0, 128),
+}
+
 def parse_html(html_text):
     from lxml.html import fromstring
     if not html_text: return []
@@ -174,31 +178,50 @@ def parse_html(html_text):
     html_text = re.sub(r'\s+\]', ']', html_text)
     html_text = re.sub(r'\(\s+', '(', html_text)
     html_text = re.sub(r'\s+\)', ')', html_text)
+    # Convert <font color="..."> to <span class="fc_HEX">
+    html_text = re.sub(r'<font\s+color="([^"]+)"\s*>', r'<span class="fc_\1">', html_text)
+    html_text = re.sub(r'</font>', '</span>', html_text)
+    # Convert <p> tags to <div> for proper block handling
+    html_text = re.sub(r'<p\s+align="center"\s*>', '<div class="ac">', html_text)
+    html_text = re.sub(r'<p[^>]*>', '<div>', html_text)
+    html_text = re.sub(r'</p>', '</div><br/><br/>', html_text)
     html_text = f'<root>{html_text}</root>'
     try: root = fromstring(html_text)
     except: return [("text", html_text)]
     segs = []
-    def walk(el):
+    def walk(el, color=None):
         tail = (el.tail or '').lstrip('\n') if el.tag != 'root' else ''
         if el.tag is etree.Comment:
-            if tail: segs.append(("text", tail))
+            if tail: segs.append(("text", tail, None))
             return
         if el.tag == 'br':
-            segs.append(("br", None))
-            if tail: segs.append(("text", tail))
+            segs.append(("br", None, None))
+            if tail: segs.append(("text", tail, color))
             return
         if 'display:none' in (el.get('style', '') or ''):
-            if tail: segs.append(("text", tail))
+            if tail: segs.append(("text", tail, color))
             return
         text = el.text or ''
         if el.tag == 'root':
             for c in el: walk(c)
             return
         cls = el.get('class', '')
-        t = "span_quran" if cls == 'quran' else "span_hadith" if cls == 'hadith' else "span_mainsubj" if cls == 'mainsubj' else "text"
-        if text: segs.append((t, text))
-        for c in el: walk(c)
-        if tail: segs.append(("text", tail))
+        if cls == 'ac':
+            segs.append(("align_center", None, None))
+            for c in el: walk(c, color)
+            segs.append(("align_end", None, None))
+            if tail: segs.append(("text", tail, None))
+            return
+        if cls.startswith('fc_'):
+            hexc = cls[3:]
+            c = FONT_COLOR_MAP.get(hexc)
+            if c: color = c
+        t = ("span_quran" if cls == 'quran' else "span_hadith" if cls == 'hadith'
+             else "span_mainsubj" if cls == 'mainsubj' else "span_names" if cls == 'names'
+             else "text")
+        if text: segs.append((t, text, color))
+        for child in el: walk(child, color)
+        if tail: segs.append(("text", tail, color))
     walk(root)
     collapsed = []
     br_count = 0
@@ -236,7 +259,7 @@ def resolve_book(book_id_or_url):
 
 # ── build docx ─────────────────────────────────────────────
 
-def build_docx(data, docx_path, volume_info=None):
+def build_docx(data, docx_path, volume_info=None, part_target=None):
     doc = Document()
     set_document_background(doc, BG_COLOR)
     add_outline_numbering(doc)
@@ -275,17 +298,17 @@ def build_docx(data, docx_path, volume_info=None):
     set_style_spacing(sty, 0, 0, 277)
 
     heading_cfg = [
-        (1, 26, (26, 58, 92)),     # Heading 1: dark blue
-        (2, 24, (139, 105, 20)),   # Heading 2: golden
-        (3, 22, (0, 90, 80)),      # Heading 3: teal
-        (4, 20, (140, 50, 50)),    # Heading 4: dark red
-        (5, 18, (80, 50, 120)),    # Heading 5: purple
-        (6, 17, (60, 100, 50)),    # Heading 6: green
-        (7, 16, (150, 80, 40)),    # Heading 7: brown
-        (8, 15, (40, 60, 100)),    # Heading 8: steel blue
-        (9, 14, (100, 100, 100)),  # Heading 9: gray
+        (1, 26, (26, 58, 92), 0, 0),         # H1: no before, no after
+        (2, 24, (139, 105, 20), 0, 200),     # H2-H9: after spacing
+        (3, 22, (0, 90, 80), 0, 180),
+        (4, 20, (140, 50, 50), 0, 160),
+        (5, 18, (80, 50, 120), 0, 140),
+        (6, 17, (60, 100, 50), 0, 120),
+        (7, 16, (150, 80, 40), 0, 100),
+        (8, 15, (40, 60, 100), 0, 80),
+        (9, 14, (100, 100, 100), 0, 60),
     ]
-    for level, sz, color in heading_cfg:
+    for level, sz, color, before, after in heading_cfg:
         hs = doc.styles[f'Heading {level}']
         set_font_on_style(hs)
         hs.font.size = Pt(sz)
@@ -297,7 +320,7 @@ def build_docx(data, docx_path, volume_info=None):
         ind = OxmlElement('w:ind')
         ind.set(qn('w:right'), '200')
         insert_ppr_child(hpr, ind)
-        set_style_spacing(hs, 80, 200, 240)
+        set_style_spacing(hs, before, after, 240)
 
     section = doc.sections[0]
     section.top_margin = Cm(2); section.bottom_margin = Cm(2)
@@ -338,37 +361,65 @@ def build_docx(data, docx_path, volume_info=None):
     total = count_nodes(chapters)
     done = [0]
 
+    def descendant_matches(node, tgt):
+        for child in node.get("sections", []):
+            if child.get("part") == tgt:
+                return True
+            if descendant_matches(child, tgt):
+                return True
+        return False
+
     def render_node(node, lv=1):
+        is_leaf = "url" in node
+        if part_target is not None:
+            if is_leaf and node.get("part") != part_target:
+                return
+            if not is_leaf and not descendant_matches(node, part_target):
+                return
         done[0] += 1
         if done[0] % 200 == 0 or done[0] == 1:
             print(f"  [{done[0]}/{total}] {node['title'][:40]}", flush=True)
         add_heading(doc, node["title"], min(lv, 9))
 
-        html = node.get("content_with_tashkeel_html", "") or node.get("content_with_tashkeel", "")
-        if html:
-            segs = parse_html(html)
-            groups = [[]]
-            for s in segs:
-                if s[0] == "br":
-                    if groups[-1]: groups.append([])
-                else:
-                    groups[-1].append(s)
-            first = True
-            for group in groups:
-                if not group: continue
-                p = doc.add_paragraph()
-                pPr = p._p.get_or_add_pPr()
-                before = "40" if not first else "0"
-                sp = parse_xml(f'<w:spacing {nsdecls("w")} w:before="{before}" w:after="0"/>')
-                pPr.append(sp)
-                for t, txt in group:
-                    txt = txt.strip()
-                    if not txt: continue
-                    if t == "span_quran": add_run(p, f"\uFD3F{txt}\uFD3E", bold=True, color=(255, 0, 0))
-                    elif t == "span_hadith": add_run(p, f"\u00AB{txt}\u00BB", bold=True, color=(0, 0, 255))
-                    elif t == "span_mainsubj": add_run(p, txt, bold=True, color=(180, 50, 50))
-                    else: add_run(p, txt)
-                first = False
+        if is_leaf:
+            html = node.get("content_with_tashkeel_html", "") or node.get("content_with_tashkeel", "")
+            if html:
+                segs = parse_html(html)
+                groups = [[]]
+                alignments = [None]
+                cur_align = None
+                for s in segs:
+                    if s[0] == "br":
+                        if groups[-1]:
+                            groups.append([])
+                            alignments.append(cur_align)
+                    elif s[0] == "align_center":
+                        cur_align = "center"
+                        alignments[-1] = cur_align
+                    elif s[0] == "align_end":
+                        cur_align = None
+                    else:
+                        groups[-1].append(s)
+                first = True
+                for i, group in enumerate(groups):
+                    if not group: continue
+                    p = doc.add_paragraph()
+                    if i < len(alignments) and alignments[i] == "center":
+                        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                    pPr = p._p.get_or_add_pPr()
+                    before = "40" if not first else "0"
+                    sp = parse_xml(f'<w:spacing {nsdecls("w")} w:before="{before}" w:after="0"/>')
+                    pPr.append(sp)
+                    for s in group:
+                        t, txt, color = s
+                        if not txt.strip(): continue
+                        if t == "span_quran": add_run(p, f"\uFD3F{txt}\uFD3E", bold=True, color=(255, 0, 0))
+                        elif t == "span_hadith": add_run(p, f"\u00AB{txt}\u00BB", bold=True, color=(0, 0, 255))
+                        elif t == "span_mainsubj": add_run(p, txt, bold=True, color=(180, 50, 50))
+                        elif t == "span_names": add_run(p, txt, bold=True, color=(138, 43, 226))
+                        elif color: add_run(p, txt, bold=False, color=color)
+                        else: add_run(p, txt)
+                    first = False
 
         for child in node.get("sections", []):
             render_node(child, lv + 1)
@@ -411,48 +462,54 @@ def convert_book(source, docx_stem=None, chapters_per_volume=VOLUME_SIZE, full=F
     with open(json_path, encoding="utf-8") as f:
         data = json.load(f)
 
+    subject = data.get("book", {}).get("subject_name", "")
+    sub_dir = OUTPUT_DIR / re.sub(r'[\\/:*?"<>|]', '_', subject.strip() or "_")
+
     chapters = data["chapters"]
     total_ch = len(chapters)
 
-    # Detect if top-level items are volumes (their sections have sub-sections)
-    has_sub_sections = False
-    for ch in chapters[:5]:
-        for s in ch.get("sections", []):
-            if s.get("sections"):
-                has_sub_sections = True
-                break
-        if has_sub_sections:
-            break
+    def collect_leaves(nodes):
+        leaves = []
+        for n in nodes:
+            if "url" in n:
+                leaves.append(n)
+            if "sections" in n:
+                leaves.extend(collect_leaves(n["sections"]))
+        return leaves
 
-    if has_sub_sections:
-        # Top-level items are volumes — each becomes its own volume
-        n_volumes = total_ch
+    # Determine splitting strategy
+    all_leaves = collect_leaves(chapters)
+    has_part = any(leaf.get("part") is not None for leaf in all_leaves)
+
+    if has_part:
+        if full:
+            docx_path = sub_dir / f"book_{docx_stem}.docx"
+            sub_dir.mkdir(parents=True, exist_ok=True)
+            print(f"Single volume (--full) -> {docx_path}", flush=True)
+            build_docx(data, docx_path)
+            return [docx_path]
+        # Split by juz (جزء)
+        part_groups = {}
+        for leaf in all_leaves:
+            p = leaf.get("part")
+            if p is not None:
+                part_groups.setdefault(p, []).append(leaf)
+        sorted_parts = sorted(part_groups)
         out = []
-        for v, ch in enumerate(chapters):
-            docx_path = OUTPUT_DIR / f"book_{docx_stem}_v{v+1}.docx"
+        for p in sorted_parts:
+            docx_path = sub_dir / f"book_{docx_stem}_ج{p}.docx"
+            sub_dir.mkdir(parents=True, exist_ok=True)
             out.append(docx_path)
-            vol_data = {"book": data["book"], "chapters": [ch]}
-            print(f"Volume {v+1}/{n_volumes}: {ch['title'][:40]}", flush=True)
-            build_docx(vol_data, docx_path, volume_info=(v+1, n_volumes, [ch]))
+            print(f"Volume الجزء {p}: {len(part_groups[p])} sections", flush=True)
+            build_docx(data, docx_path, volume_info=(p, len(sorted_parts), data["chapters"]), part_target=p)
         return out
 
-    if full or total_ch <= chapters_per_volume * 1.5:
-        docx_path = OUTPUT_DIR / f"book_{docx_stem}.docx"
-        print(f"Single volume -> {docx_path}", flush=True)
-        build_docx(data, docx_path)
-        return [docx_path]
-
-    n_volumes = (total_ch + chapters_per_volume - 1) // chapters_per_volume
-    out = []
-    for v in range(n_volumes):
-        s = v * chapters_per_volume
-        e = min((v + 1) * chapters_per_volume, total_ch)
-        vch = chapters[s:e]
-        docx_path = OUTPUT_DIR / f"book_{docx_stem}_v{v+1}.docx"
-        out.append(docx_path)
-        print(f"Volume {v+1}/{n_volumes} ({len(vch)} chapters)...", flush=True)
-        build_docx(data, docx_path, volume_info=(v+1, n_volumes, vch))
-    return out
+    # No part data → single volume
+    docx_path = sub_dir / f"book_{docx_stem}.docx"
+    sub_dir.mkdir(parents=True, exist_ok=True)
+    print(f"Single volume -> {docx_path}", flush=True)
+    build_docx(data, docx_path)
+    return [docx_path]
 
 if __name__ == "__main__":
     full = False; cpv = VOLUME_SIZE
