@@ -413,8 +413,8 @@ def build_docx(data, docx_path, volume_info=None, part_target=None):
                     for s in group:
                         t, txt, color = s
                         if not txt.strip(): continue
-                        if t == "span_quran": add_run(p, f"\uFD3F{txt}\uFD3E", bold=True, color=(255, 0, 0))
-                        elif t == "span_hadith": add_run(p, f"\u00AB{txt}\u00BB", bold=True, color=(0, 0, 255))
+                        if t == "span_quran": add_run(p, f"\uFD3F{txt.strip()}\uFD3E", bold=True, color=(255, 0, 0))
+                        elif t == "span_hadith": add_run(p, f"\u00AB{txt.strip()}\u00BB", bold=True, color=(0, 0, 255))
                         elif t == "span_mainsubj": add_run(p, txt, bold=True, color=(180, 50, 50))
                         elif t == "span_names": add_run(p, txt, bold=True, color=(138, 43, 226))
                         elif color: add_run(p, txt, bold=False, color=color)
