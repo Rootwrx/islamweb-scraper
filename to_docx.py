@@ -462,8 +462,10 @@ def convert_book(source, docx_stem=None, chapters_per_volume=VOLUME_SIZE, full=F
     with open(json_path, encoding="utf-8") as f:
         data = json.load(f)
 
-    subject = data.get("book", {}).get("subject_name", "")
-    sub_dir = OUTPUT_DIR / re.sub(r'[\\/:*?"<>|]', '_', subject.strip() or "_")
+    book = data.get("book", {})
+    title = (book.get("title") or "").strip()
+    safe_book = re.sub(r'[\\/:*?"<>|]', '_', f"{title}_{docx_stem}")
+    book_dir = OUTPUT_DIR / safe_book
 
     chapters = data["chapters"]
     total_ch = len(chapters)
@@ -483,8 +485,8 @@ def convert_book(source, docx_stem=None, chapters_per_volume=VOLUME_SIZE, full=F
 
     if has_part:
         if full:
-            docx_path = sub_dir / f"book_{docx_stem}.docx"
-            sub_dir.mkdir(parents=True, exist_ok=True)
+            docx_path = book_dir / f"book_{docx_stem}.docx"
+            book_dir.mkdir(parents=True, exist_ok=True)
             print(f"Single volume (--full) -> {docx_path}", flush=True)
             build_docx(data, docx_path)
             return [docx_path]
@@ -497,16 +499,16 @@ def convert_book(source, docx_stem=None, chapters_per_volume=VOLUME_SIZE, full=F
         sorted_parts = sorted(part_groups)
         out = []
         for p in sorted_parts:
-            docx_path = sub_dir / f"book_{docx_stem}_ج{p}.docx"
-            sub_dir.mkdir(parents=True, exist_ok=True)
+            docx_path = book_dir / f"ج{p}.docx"
+            book_dir.mkdir(parents=True, exist_ok=True)
             out.append(docx_path)
             print(f"Volume الجزء {p}: {len(part_groups[p])} sections", flush=True)
             build_docx(data, docx_path, volume_info=(p, len(sorted_parts), data["chapters"]), part_target=p)
         return out
 
     # No part data → single volume
-    docx_path = sub_dir / f"book_{docx_stem}.docx"
-    sub_dir.mkdir(parents=True, exist_ok=True)
+    docx_path = book_dir / f"book_{docx_stem}.docx"
+    book_dir.mkdir(parents=True, exist_ok=True)
     print(f"Single volume -> {docx_path}", flush=True)
     build_docx(data, docx_path)
     return [docx_path]
