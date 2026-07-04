@@ -1,0 +1,369 @@
+<body itemscope="" itemtype="http://schema.org/WebPage" style="">
+
+<div class="">
+
+<style>
+
+.top-item p.d-block { line-height: 32px; }
+
+.oneitems div.top-item p { line-height: 32px; }
+.islamweb-font {
+top: 253px; position: fixed; right: 0;/* bottom: 0;*/ z-index: 2000000; min-width: 100px; margin-right: -455px; }
+.islamweb-font .islamweb-font-tab { background: #dc3369; border-radius: 4px; transform-origin: bottom right; position: absolute; left: -194px; transform: rotate(90deg); top: 81px; }
+.islamweb-font .islamweb-font-tab:hover { background: #ba1f51; }
+.islamweb-font .islamweb-font-tab a { color: white; padding: 10px 15px; display: inline-block; font-size: 16px; }
+    .islamweb-font .islamweb-font-tab a i { vertical-align: -2px; }
+
+.islamweb-font .quick-help-tab { background: #5d7bd2; border-radius: 4px; transform-origin: bottom right; position: absolute; left: -165px; transform: rotate(90deg); bottom: 177px; }
+.islamweb-font .quick-help-tab:hover { background: #445fb0; }
+.islamweb-font .quick-help-tab a { color: white; padding: 10px 15px; display: inline-block; font-size: 16px; }
+
+.alarm-icon:after { content: ""; height: 16px; width: 24px; background: url(https://www.islamweb.net/ar/Images/small-icons.png) no-repeat 3px -222px; display: inline-block; margin-right: 3px; vertical-align: middle; background-size: 21px; float: left; margin-top: -2px; }
+.islamweb-font .panel { width: 452px; border-radius: 4px 0 0 4px; box-shadow: -1px 1px 3px rgba(0,0,0,.4); }
+.islamweb-font .islamweb-font-tab li.arrow { height: 16px; background: #ba1f51; cursor: pointer; border-radius: 0px 0 4px 4px; }
+.islamweb-font .quick-help-tab li.arrow { height: 16px; background: #445fb0; cursor: pointer; border-radius: 0px 0 4px 4px; }
+.islamweb-font li.arrow.collapsed { height: 0; }
+    .islamweb-font li.arrow.collapsed span { display: none; }
+.islamweb-font li.arrow span { transform: rotate(-90deg); position: absolute; font-size: 25px; bottom: -5px; left: 50%; display: inline-block; color: white; }
+
+
+</style>
+
+<div class="islamweb-font animated fadeInRight" style="background-color: white;">
+    <div class="islamweb-font-panel panel" id="hidden-font-content">
+        <div class="islamweb_font_1" style="z-index:99999;color:#424142;font-family:'Lotus Linotype' !important;font-size: 22px !important;">
+        <!--<img src="/contentver3/img/font1.png" />-->
+        الذنوب والمعاصي تضر ولابد، فإن مما اتفق عليه العلماء وأرباب السلوك أن للمعاصي آثارا وثارات، وأن لها عقوبات على قلب العاصي وبدنه، وعلى دينه وعقله، وعلى دنياه وآخرته.
+        <br><br>
+        <center>
+        <div onclick="javascript: $('.islamweb_font_1').click();" style="cursor:pointer;background: #002d6a;color: #fff;padding: 8px 30px;width:200px;">اختيار هذا الخط</div>
+        </center>
+        <br>
+        </div>
+        <hr>
+        <div class="islamweb_font_2" style="z-index:99999;color:#000000;font-family:'Lotus Linotype' !important;font-size: 22px !important;width: 100%; height:200px;padding-top:20px;">
+        <!--<img src="/contentver3/img/font2.png" />-->
+        الذنوب والمعاصي تضر ولابد، فإن مما اتفق عليه العلماء وأرباب السلوك أن للمعاصي آثارا وثارات، وأن لها عقوبات على قلب العاصي وبدنه، وعلى دينه وعقله، وعلى دنياه وآخرته.
+        <br><br>
+        <center>
+        <div onclick="javascript: $('.islamweb_font_2').click();" style="cursor:pointer;background: #002d6a;color: #fff;padding: 8px 30px;width:200px;">اختيار هذا الخط</div>
+        </center>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+	<div class="portalpage">
+
+
+
+
+
+
+
+
+
+
+
+
+	<section>
+
+
+
+
+	<div class="left-nav">
+
+                        <div class="leftblock fatCatleft catlibrary">
+			<h3>
+			   <span>
+				<img src="/contentver3/img/ico-librarydept.svg" alt=""> تصنيف الكتب
+			</span>
+			<a class="link-title">
+				<svg xmlns="http://www.w3.org/2000/svg" width="12.695" height="7.259" viewBox="0 0 12.695 7.259">
+					<path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M12.537,16.317l4.8-4.8a.9.9,0,0,1,1.281,0,.915.915,0,0,1,0,1.285L13.18,18.241a.906.906,0,0,1-1.251.026L6.452,12.8a.907.907,0,1,1,1.281-1.285Z" transform="translate(-6.188 -11.246)" fill="#012d6b"></path>
+				  </svg>
+
+			   </a>
+			</h3>
+
+				<ul>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=1">متون الحديث</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=4">أحاديث الأحكام</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=7">فروع الفقه الحنفي</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=10">فروع الفقه المالكي</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=13">الفقه المقارن</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=16">فروع الفقه الحنبلي</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=19">فروع الفقه الظاهري</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=22">فروع الفقه الشافعي</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=25">الفتاوى</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=28">أصول الفقه</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=31">القضاء</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=34">القواعد الفقهية</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=37">السياسة الشرعية</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=40">الآداب الشرعية</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=43">لغة الفقه</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=46">آيات الأحكام</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=49">تفسير القرآن</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=52">شروح الحديث</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=55">السيرة النبوية</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=58">التاريخ والتراجم</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=61">علوم القرآن</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=64">علوم الحديث</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=67">العقيدة</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=70">الآداب والرقائق</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=73">كتب اللغة العربية</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=76">كتاب الأمة</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                        			<li>
+        				<a style="color: white;" href="index.php?page=bookslist&amp;subject=79">فقه عام</a>
+        				<span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                        <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                        </svg>
+
+                        </span>
+        			</li>
+                				</ul>
+			</div>
+
+			<div class="leftblock adsgoogle">
+				<img src="/content/img/adsgoogle.png" alt="">
+			</div>	</div>
+
+
+	</section></div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</body>

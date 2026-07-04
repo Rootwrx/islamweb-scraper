@@ -1,0 +1,1829 @@
+after clicking on tafsir al quran
+
+https://islamweb.net/ar/library//index.php?page=bookslist&subject=49
+
+
+
+<body itemscope="" itemtype="http://schema.org/WebPage">
+
+<div class="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="portalpage">
+
+
+
+
+
+	<section>
+
+
+	<div class="right-nav block-style">
+    <h3 class="mainitem bg-transparent  ">
+
+<div class="h-list w-100 d-flex justify-content-between">
+
+	<span class="title-booklist showSearch " style="align-items: center;font-weight: normal;">
+        <img class="ms-2" src="/contentver3/img/ico-bookmenu.svg" alt=""> قائمة الكتب
+    </span>
+
+	<span class="booklist-search">
+
+    <div class="d-style justify-content-between align-items-center">
+        <input type="search" class="inputstyle input-searchlibrary" style="width:200px;font-size: 20px;font-family: 'Lotus Linotype',FontAwesome;" placeholder="&nbsp;&nbsp; اكتب كلمة البحث" id="searchtxtfilter">
+        <a href="javascript:;" class="mobi-closesearch" id="btn-close-search">
+            <img class="w-100" src="/contentver3/img/icons8-back-48.png" alt="">
+        </a>
+    </div>
+
+
+    <div class="search-options">
+
+    <select class="inputstyle" id="orderbooksby" style="font-size: 20px;font-family: 'Lotus Linotype';width: 200px;" onchange="javascript: window.open('index.php?page=bookslist&amp;orderbooksby=' + $('#orderbooksby').val(),'_self');">
+		<option value="">ترتيب بحسب</option>
+        <option value="2">ترتيب بحسب اسماء المؤلفين</option>
+        <option value="3">ترتيب بحسب السنة</option>
+	</select>
+
+        <select class="inputstyle" id="publisherselect" style="font-size: 20px;font-family: 'Lotus Linotype';width: 200px;" onchange="javascript: window.open('index.php?page=bookslist&amp;author=&amp;subject=' + $('#publisherselect').val(),'_self');">
+		<option value="">تصفية الموضوع</option>
+                <option value="46">آيات الأحكام</option>
+                <option value="4">أحاديث الأحكام</option>
+                <option value="28">أصول الفقه</option>
+                <option value="40">الآداب الشرعية</option>
+                <option value="70">الآداب والرقائق</option>
+                <option value="37">السياسة الشرعية</option>
+                <option value="55">السيرة النبوية</option>
+                <option value="58">التاريخ والتراجم</option>
+                <option value="67">العقيدة</option>
+                <option value="25">الفتاوى</option>
+                <option value="13">الفقه المقارن</option>
+                <option value="31">القضاء</option>
+                <option value="34">القواعد الفقهية</option>
+                <option value="52">شروح الحديث</option>
+                <option value="49" selected="">تفسير القرآن</option>
+                <option value="64">علوم الحديث</option>
+                <option value="61">علوم القرآن</option>
+                <option value="16">فروع الفقه الحنبلي</option>
+                <option value="7">فروع الفقه الحنفي</option>
+                <option value="22">فروع الفقه الشافعي</option>
+                <option value="19">فروع الفقه الظاهري</option>
+                <option value="10">فروع الفقه المالكي</option>
+                <option value="79">فقه عام</option>
+                <option value="76">كتاب الأمة</option>
+                <option value="73">كتب اللغة العربية</option>
+                <option value="43">لغة الفقه</option>
+                <option value="1">متون الحديث</option>
+        	</select>
+
+	<select theme="google" placeholder="تصفية المؤلف" data-search="true" class="inputstyle" id="authorselect" style="font-size: 20px;font-family: 'Lotus Linotype';width: 200px;" onchange="javascript: window.open('index.php?page=bookslist&amp;publisher=&amp;author=' + $('#authorselect').val(),'_self');">
+		<option value="">تصفية المؤلف</option>
+                <option value="433">أبو الحسن اللخمي - علي بن محمد اللخمي</option>
+                <option value="307">أبو السعود  - محمد بن محمد بن مصطفى العمادي</option>
+                <option value="121">أبو العباس الفيومي - أحمد بن محمد بن علي الفيومي</option>
+                <option value="415">أبو العباس القرطبي - ضياء الدين أحمد بن عمر القرطبي</option>
+                <option value="400">أبو القاسم الرافعي - عبد الكريم بن محمد القزويني</option>
+                <option value="94">أبو حامد الغزالي - محمد بن محمد الغزالي</option>
+                <option value="160">أبو حيان الأندلسي - أثير الدين أبو عبد الله محمد بن يوسف الأندلسي</option>
+                <option value="13">أبو داود - سليمان بن الأشعث السجستاني الأزدي</option>
+                <option value="376">أبو عمرو الداني - عثمان بن سعيد بن عثمان بن عمر</option>
+                <option value="286">أبو نعيم الأصبهاني  - أحمد بن عبد الله بن أحمد بن إسحاق الأصبهاني</option>
+                <option value="19">أحمد بن حنبل  - أحمد بن محمد بن حنبل بن هلال بن أسد</option>
+                <option value="250">ابن أبي العز - علي بن علي بن محمد بن أبي العز الدمشقي</option>
+                <option value="334">ابن أبي حاتم -  أبو محمد عبد الرحمن بن محمد بن إدريس الرازي</option>
+                <option value="373">ابن أبي داود - عبد الله بن سليمان بن الأشعث الأزدي السجستاني</option>
+                <option value="31">ابن أبي شيبة - عبد الله بن محمد بن أبي شيبة</option>
+                <option value="265">ابن الأثير - مجد الدين أبي السعادات المبارك بن محمد</option>
+                <option value="175">ابن الجزري - أبو الخير محمد بن محمد الدمشقي</option>
+                <option value="331">ابن الجوزي - جمال الدين أبو الفرج عبد الرحمن بن علي الجوزي</option>
+                <option value="223">ابن الصلاح - أبو عمرو عثمان بن عبد الرحمن الشهرزوري</option>
+                <option value="124">ابن العربي - أبو بكر محمد بن عبد الله الأندلسي</option>
+                <option value="97">ابن القيم - أبو عبد الله محمد بن أبي بكر ابن قيم الجوزية</option>
+                <option value="397">ابن الملقن  - عمر بن علي بن أحمد الأنصاري</option>
+                <option value="382">ابن جماعة - بدر الدين محمد بن إبراهيم بن جماعة</option>
+                <option value="409">ابن حبان - أبو حاتم محمد بن حبان البستي</option>
+                <option value="34">ابن حجر العسقلاني - أحمد بن علي بن حجر العسقلاني</option>
+                <option value="61">ابن حجر الهيتمي - أحمد بن محمد بن علي بن حجر الهيتمي</option>
+                <option value="52">ابن حزم الأندلسي - علي بن أحمد بن سعيد بن حزم</option>
+                <option value="190">ابن خزيمة - أبو بكر محمد بن إسحاق بن خزيمة</option>
+                <option value="205">ابن دقيق العيد - محمد بن علي بن وهب بن مطيع</option>
+                <option value="109">ابن رجب الحنبلي - عبد الرحمن بن أحمد بن رجب الحنبلي</option>
+                <option value="232">ابن رشد  - أبو الوليد محمد بن أحمد بن محمد بن رشد القرطبي</option>
+                <option value="64">ابن تيمية - أحمد بن عبد الحليم بن تيمية الحراني</option>
+                <option value="79">ابن عابدين - محمد أمين بن عمر بن عبد العزيز عابدين</option>
+                <option value="157">ابن عاشور - محمد الطاهر بن عاشور</option>
+                <option value="199">ابن عبد البر - أبو عمر يوسف بن عبد الله بن محمد بن عبد البر</option>
+                <option value="304">ابن عطية - أبو محمد عبد الحق بن عطية الأندلسي</option>
+                <option value="274">ابن فارس - أبو الحسين أحمد بن فارس بن زكريا القزويني الرازي</option>
+                <option value="46">ابن قدامة - موفق الدين عبد الله بن أحمد بن قدامة المقدسي</option>
+                <option value="211">ابن قتيبة - أبو محمد عبد الله بن مسلم بن قتيبة</option>
+                <option value="133">ابن كثير - إسماعيل بن عمر بن كثير القرشي الدمشقي</option>
+                <option value="16">ابن ماجه - محمد بن يزيد القزويني</option>
+                <option value="229">ابن مفلح - أبو إسحاق برهان الدين بن محمد بن عبد الله الحنبلي</option>
+                <option value="82">ابن مفلح - محمد بن مفلح بن محمد المقدسي</option>
+                <option value="268">ابن منظور - أبو الفضل جمال الدين محمد بن مكرم الأنصاري</option>
+                <option value="226">ابن مودود الموصلي - عبد الله بن محمود بن مودود الموصلي</option>
+                <option value="85">ابن نجيم - زين الدين بن إبراهيم بن محمد</option>
+                <option value="151">ابن هشام - عبد الملك بن هشام بن أيوب الحميري</option>
+                <option value="241">الآمدي - علي بن محمد الآمدي</option>
+                <option value="364">الأخفش الأوسط - أبو الحسن سعيد بن مسعدة</option>
+                <option value="244">الأصفهاني - أبو الثناء محمود بن عبد الرحمن بن أحمد الأصفهاني</option>
+                <option value="292">الألوسي - محمود شهاب الدين أبو الثناء الألوسي</option>
+                <option value="370">الباقلاني - أبو بكر محمد بن الطيب الباقلاني</option>
+                <option value="1">البخاري - محمد بن إسماعيل البخاري الجعفي</option>
+                <option value="181">البزار - أبو بكر أحمد بن عمرو بن عبد الخالق العتكي البزار</option>
+                <option value="139">البغوي - الحسين بن مسعود البغوي</option>
+                <option value="325">البقاعي - برهان الدين أبي الحسن إبراهيم بن عمر البقاعي</option>
+                <option value="49">البهوتي - منصور بن يونس البهوتي</option>
+                <option value="298">البيضاوي - ناصر الدين أبي الخيرعبد الله بن عمر بن علي البيضاوي</option>
+                <option value="178">البيهقي - أبو بكر أحمد بن الحسين بن علي البيهقي</option>
+                <option value="367">الجرجاني - أبو بكر عبد القاهر بن عبد الرحمن الجرجاني</option>
+                <option value="319">الجصاص - ابو بكر أحمد بن علي الرازي الجصاص</option>
+                <option value="247">الجويني - أبو المعالي عبد الملك بن عبد الله الجويني</option>
+                <option value="220">الحازمي - أبو بكر محمد بن موسى الحازمي الهمذاني</option>
+                <option value="187">الحاكم - أبو عبد الله محمد بن عبد الله الحاكم النيسابوري</option>
+                <option value="58">الحطاب - محمد بن محمد بن عبد الرحمن الرعينى</option>
+                <option value="256">الحكمي - حافظ بن أحمد الحكمي</option>
+                <option value="358">الحكيم الترمذي - محمد بن علي بن الحسن بن بشر</option>
+                <option value="193">الدارقطني - علي بن عمر الدارقطني</option>
+                <option value="25">الدرامي  - عبد الله بن عبد الرحمن الدرامي السمرقندي</option>
+                <option value="40">الدسوقي - محمد بن أحمد بن عرفة الدسوقي</option>
+                <option value="154">الذهبي - شمس الدين محمد بن أحمد بن عثمان الذهبي</option>
+                <option value="289">الرازي  - فخر الدين أبو عبد الله محمد بن عمر بن حسين</option>
+                <option value="277">الرازي - زين الدين محمد بن أبي بكر بن عبد القادر الرازي</option>
+                <option value="355">الزجاج - أبو إسحاق إبراهيم بن السري الزجاج</option>
+                <option value="196">الزرقاني  - محمد بن عبد الباقي بن يوسف الزرقاني المصري الأزهري</option>
+                <option value="100">الزركشي - بدر الدين محمد بن بهادر بن عبد الله الزركشي</option>
+                <option value="295">الزمخشري - أبو القاسم محمود بن عمر الزمخشري</option>
+                <option value="28">الزيلعي - جمال الدين عبد الله بن يوسف الزيلعي</option>
+                <option value="361">السجستاني - أبو بكر محمد بن عُزير السجستاني</option>
+                <option value="208">السخاوي - شمس الدين محمد بن عبد الرحمن السخاوي</option>
+                <option value="55">السرخسي - محمد بن أحمد بن أبي سهل السرخسي</option>
+                <option value="310">السعدي - عبد الرحمن بن ناصر السعدي</option>
+                <option value="118">السفاريني - محمد بن أحمد بن سالم السفاريني</option>
+                <option value="328">السمين الحلبي - أحمد بن يوسف بن عبد الدايم الحلبي</option>
+                <option value="142">السندي - أبو الحسن نور الدين محمد بن عبد الهادي السندي</option>
+                <option value="103">السيوطي - جلال الدين عبد الرحمن بن أبي بكر السيوطي</option>
+                <option value="238">الشاطبي - أبو إسحاق إبراهيم بن موسى بن محمد اللخمي الشاطبي</option>
+                <option value="88">الشافعي - محمد بن إدريس الشافعي</option>
+                <option value="127">الشوكاني - محمد بن علي بن محمد الشوكاني</option>
+                <option value="70">الشيخ عليش - محمد بن أحمد بن محمد (عليش)</option>
+                <option value="439">الصالحي - محمد بن يوسف الصالحي الشامي</option>
+                <option value="214">الطبراني - أبو القاسم سليمان بن أحمد بن أيوب</option>
+                <option value="136">الطبري - محمد بن جرير الطبري</option>
+                <option value="403">الطحاوي - أبو جعفر الطحاوي</option>
+                <option value="235">الطوفي - نجم الدين أبو الربيع سليمان بن عبد القوي الطوفي</option>
+                <option value="7">الترمذي - محمد بن عيسى بن سورة الترمذي</option>
+                <option value="406">العراقي - أبو الفضل زين الدين عبد الرحيم بن الحسين العراقي</option>
+                <option value="112">العز ابن عبد السلام - عز الدين عبد العزيز بن عبد السلام</option>
+                <option value="145">العظيم آبادي - محمد شمس الحق العظيم آبادي</option>
+                <option value="172">العكبري - أبو البقاء عبد الله بن الحسين العكبري</option>
+                <option value="91">الفتوحي  - تقي الدين أبو البقاء محمد بن أحمد الفتوحي المعروف بابن النجار</option>
+                <option value="271">الفيروزآبادي - مجد الدين محمد بن يعقوب الفيروزآبادي</option>
+                <option value="283">القاسمي - محمد جمال الدين القاسمي</option>
+                <option value="262">القاضي عياض - عياض بن موسى اليحصبي السبتي المغربي</option>
+                <option value="106">القرافي - أبو العباس شهاب الدين أحمد بن إدريس</option>
+                <option value="130">القرطبي - شمس الدين محمد بن أحمد الأنصاري القرطبي</option>
+                <option value="37">الكاساني - أبو بكر مسعود بن أحمد الكاساني</option>
+                <option value="340">الكرماني - محمود بن حمزة الكرماني</option>
+                <option value="67">الكمال ابن الهمام - كمال الدين بن عبد الواحد</option>
+                <option value="322">الكيا الهراسي - عماد الدين بن محمد الطبري</option>
+                <option value="253">اللالكائي - أبو القاسم هبة الله بن الحسن بن منصور الطبري</option>
+                <option value="379">المارغني - إبراهيم بن أحمد المارغني</option>
+                <option value="115">الماوردي  - أبو الحسن علي بن محمد بن حبيب الماوردي</option>
+                <option value="148">المباركفوري - محمد بن عبد الرحمن بن عبد الرحيم المباركفوري</option>
+                <option value="76">المرداوي - علي بن سليمان بن أحمد المرداوي</option>
+                <option value="202">الملا علي القاري - نور الدين علي بن سلطان محمد القاري</option>
+                <option value="394">المناوي  - محمد عبد الرؤوف المناوي</option>
+                <option value="421">المهدوي - أبو العباس أحمد بن عمار المهدوي</option>
+                <option value="352">النحاس - أبو جعفر محمد بن إسماعيل النحاس</option>
+                <option value="10">النسائي - أحمد بن شعيب النسائي</option>
+                <option value="301">النسفي - عبد الله بن أحمد بن محمود النسفي</option>
+                <option value="43">النووي  - أبو زكريا محيي الدين يحيى بن شرف النووي</option>
+                <option value="343">الهروي - أبو عبيد القاسم بن سلام الهروي</option>
+                <option value="217">الهيثمي - نور الدين علي بن أبي بكر الهيثمي</option>
+                <option value="163">الواحدي - أبو الحسن علي بن أحمد بن محمد بن علي الواحدي</option>
+                <option value="430">الوزير ابن هبيرة - يحيى بن محمد بن هبيرة الشيباني</option>
+                <option value="391">بدر الدين العيني - أبو محمد محمود بن أحمد بن موسى</option>
+                <option value="316">جلال الدين المحلي - محمد بن أحمد المحلي ، السيوطي - جلال الدين عبد الرحمن بن أبي بكر السيوطي</option>
+                <option value="418">خالد المشيقح - أ.د/ خالد بن علي بن محمد المشيقح</option>
+                <option value="313">سيد قطب  - سيد قطب إبراهيم</option>
+                <option value="73">شمس الدين الرملي - محمد بن أحمد بن حمزة بن شهاب الدين الرملي</option>
+                <option value="424">صديق خان - محمد صديق حسن خان القنوجي الظاهري</option>
+                <option value="412">ضياء الدين المقدسي - ضياء الدين أبو عبد الله المقدسي</option>
+                <option value="184">عبد الرزاق - أبو بكر عبد الرزاق بن همام الصنعاني</option>
+                <option value="346">عبد الفتاح القاضي - عبد الفتاح بن عبد الغني بن محمد القاضي</option>
+                <option value="349">عبد الفتاح المرصفي - عبد الفتاح بن السيد عجمي المرصفي</option>
+                <option value="280">عز الدين ابن الأثير - أبو الحسن علي بن محمد بن عبد الكريم</option>
+                <option value="22">مالك بن أنس  - مالك بن أنس بن مالك الأصبحي</option>
+                <option value="427">مجير الدين الحنبلي - مجير الدين بن محمد العليمي المقدسي الحنبلي</option>
+                <option value="337">محمد أبو زهرة - محمد بن أحمد بن مصطفى بن أحمد</option>
+                <option value="166">محمد الأمين الشنقيطي - محمد الأمين بن محمد بن المختار الجنكي الشنقيطي</option>
+                <option value="388">محمد بن محمود بن إبراهيم عطية</option>
+                <option value="259">محمد خليل هراس  - محمد بن خليل حسن هراس</option>
+                <option value="169">محمد رشيد رضا - محمد رشيد بن علي رضا</option>
+                <option value="436">مرتضى الزبيدي - محمد بن محمد الحسيني الزبيدي</option>
+                <option value="4">مسلم - مسلم بن الحجاج القشيري النيسابوري</option>
+                <option value="385">مناع القطان - مناع خليل القطان</option>
+        	</select>
+
+
+	</div>
+        </span>
+    </div>
+</h3>
+
+<div>
+<ul class="oneitems w-border">
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/212/1/أحكام-القرآن-للجصاص?idfrom=1&amp;idto=1362">
+
+            <label style="cursor: pointer;" itemprop="name">أحكام القرآن للجصاص
+            <span class="date">
+             - <meta itemprop="datePublished" content="1412 هـ - 1992 م">1412 هـ - 1992 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الجصاص - ابو بكر أحمد بن علي الرازي الجصاص</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار إحياء التراث العربي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/213/1/أحكام-القرآن-للكيا-الهراسي?idfrom=1&amp;idto=622">
+
+            <label style="cursor: pointer;" itemprop="name">أحكام القرآن للكيا الهراسي
+            <span class="date">
+             - <meta itemprop="datePublished" content="1403 هـ - 1983 م">1403 هـ - 1983 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الكيا الهراسي - عماد الدين بن محمد الطبري</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الكتب العلمية</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/64/1/أضواء-البيان-في-إيضاح-القرآن-بالقرآن?idfrom=1&amp;idto=3351">
+
+            <label style="cursor: pointer;" itemprop="name">أضواء البيان في إيضاح القرآن بالقرآن
+            <span class="date">
+             - <meta itemprop="datePublished" content="1415هـ / 1995م">1415هـ / 1995م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">محمد الأمين الشنقيطي - محمد الأمين بن محمد بن المختار الجنكي الشنقيطي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الفكر</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/219/1/الإكليل-في-استنباط-التنزيل?idfrom=1&amp;idto=1129">
+
+            <label style="cursor: pointer;" itemprop="name">الإكليل في استنباط التنزيل
+            <span class="date">
+             - <meta itemprop="datePublished" content="1401 هـ - 1981 م">1401 هـ - 1981 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">السيوطي - جلال الدين عبد الرحمن بن أبي بكر السيوطي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الكتب العلمية</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/61/1/التحرير-والتنوير?idfrom=1&amp;idto=4690">
+
+            <label style="cursor: pointer;" itemprop="name">التحرير والتنوير
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">ابن عاشور - محمد الطاهر بن عاشور</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار سحنون</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/404/1/التحصيل-لفوائد-كتاب-التفصيل-الجامع-لعلوم-التنزيل?idfrom=1&amp;idto=1135">
+
+            <label style="cursor: pointer;" itemprop="name">التحصيل لفوائد كتاب التفصيل الجامع لعلوم التنزيل
+            <span class="date">
+             - <meta itemprop="datePublished" content="1435هـ / 2014م">1435هـ / 2014م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">المهدوي - أبو العباس أحمد بن عمار المهدوي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">وزارة الأوقاف والشؤون الإسلامية القطرية</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/132/1/التفسير-الكبير?idfrom=1&amp;idto=5472">
+
+            <label style="cursor: pointer;" itemprop="name">التفسير الكبير
+            <span class="date">
+             - <meta itemprop="datePublished" content="2004م – 1425هـ">2004م – 1425هـ            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الرازي  - فخر الدين أبو عبد الله محمد بن عمر بن حسين</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الكتب العلمية ببيروت</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/62/1/التفسير-الكبير-المسمى-البحر-المحيط?idfrom=1&amp;idto=1730">
+
+            <label style="cursor: pointer;" itemprop="name">التفسير الكبير المسمى البحر المحيط
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">أبو حيان الأندلسي - أثير الدين أبو عبد الله محمد بن يوسف الأندلسي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار إحياء التراث العربي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/215/1/الدر-المصون?idfrom=1&amp;idto=4584">
+
+            <label style="cursor: pointer;" itemprop="name">الدر المصون
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">السمين الحلبي - أحمد بن يوسف بن عبد الدايم الحلبي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار القلم</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/203/1/الدر-المنثور?idfrom=1&amp;idto=2938">
+
+            <label style="cursor: pointer;" itemprop="name">الدر المنثور
+            <span class="date">
+             - <meta itemprop="datePublished" content="2003م – 1424هـ">2003م – 1424هـ            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">السيوطي - جلال الدين عبد الرحمن بن أبي بكر السيوطي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">مركز هجر</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/208/1/تفسير-أبي-السعود?idfrom=1&amp;idto=6106">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير أبي السعود
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">أبو السعود  - محمد بن محمد بن مصطفى العمادي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار إحياء التراث العربي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/218/1/تفسير-ابن-أبي-حاتم?idfrom=1&amp;idto=2224">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير ابن أبي حاتم
+            <span class="date">
+             - <meta itemprop="datePublished" content="1417 هـ - 1997 م">1417 هـ - 1997 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">ابن أبي حاتم -  أبو محمد عبد الرحمن بن محمد بن إدريس الرازي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">مكتبة نزار مصطفى الباز</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/220/1/تفسير-ابن-رجب?idfrom=1&amp;idto=343">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير ابن رجب
+            <span class="date">
+             - <meta itemprop="datePublished" content="1422 هـ - 2001 م">1422 هـ - 2001 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">ابن رجب الحنبلي - عبد الرحمن بن أحمد بن رجب الحنبلي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار العاصمة</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/207/1/تفسير-ابن-عطية?idfrom=1&amp;idto=1710">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير ابن عطية
+            <span class="date">
+             - <meta itemprop="datePublished" content="1428 هـ - 2007 م">1428 هـ - 2007 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">ابن عطية - أبو محمد عبد الحق بن عطية الأندلسي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">طبعة وزارة الأوقاف القطرية</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/49/1/تفسير-ابن-كثير?idfrom=1&amp;idto=1988">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير ابن كثير
+            <span class="date">
+             - <meta itemprop="datePublished" content="1422هـ / 2002م">1422هـ / 2002م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">ابن كثير - إسماعيل بن عمر بن كثير القرشي الدمشقي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار طيبة</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/201/1/تفسير-الألوسي?idfrom=1&amp;idto=5796">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير الألوسي
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الألوسي - محمود شهاب الدين أبو الثناء الألوسي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار إحياء التراث العربي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/51/1/تفسير-البغوي?idfrom=1&amp;idto=2184">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير البغوي
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">البغوي - الحسين بن مسعود البغوي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار طيبة</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/205/1/تفسير-البيضاوي?idfrom=1&amp;idto=3333">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير البيضاوي
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">البيضاوي - ناصر الدين أبي الخيرعبد الله بن عمر بن علي البيضاوي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار إحياء التراث العربي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/211/1/تفسير-الجلالين?idfrom=1&amp;idto=6230">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير الجلالين
+            <span class="date">
+             - <meta itemprop="datePublished" content="1407 هـ">1407 هـ            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">جلال الدين المحلي - محمد بن أحمد المحلي ، السيوطي - جلال الدين عبد الرحمن بن أبي بكر السيوطي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار ابن كثير</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/209/1/تفسير-السعدي?idfrom=1&amp;idto=1762">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير السعدي
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">السعدي - عبد الرحمن بن ناصر السعدي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار ابن الجوزي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/50/1/تفسير-الطبري?idfrom=1&amp;idto=5117">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير الطبري
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الطبري - محمد بن جرير الطبري</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار المعارف</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/217/1/تفسير-القاسمي?idfrom=1&amp;idto=4072">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير القاسمي
+            <span class="date">
+             - <meta itemprop="datePublished" content="1376 هـ - 1957 م">1376 هـ - 1957 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">القاسمي - محمد جمال الدين القاسمي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار إحياء الكتب العربية</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/48/1/تفسير-القرطبي?idfrom=1&amp;idto=3879">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير القرطبي
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">القرطبي - شمس الدين محمد بن أحمد الأنصاري القرطبي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الفكر</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/204/1/تفسير-الكشاف?idfrom=1&amp;idto=2984">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير الكشاف
+            <span class="date">
+             - <meta itemprop="datePublished" content="1418 هـ - 1998 م">1418 هـ - 1998 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الزمخشري - أبو القاسم محمود بن عمر الزمخشري</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">مكتبة العبيكان</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/202/1/تفسير-الماوردي?idfrom=1&amp;idto=1719">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير الماوردي
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الماوردي  - أبو الحسن علي بن محمد بن حبيب الماوردي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الكتب العلمية</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/65/1/تفسير-المنار?idfrom=1&amp;idto=1968">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير المنار
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">محمد رشيد رضا - محمد رشيد بن علي رضا</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">الهيئة المصرية للكتاب</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/206/1/تفسير-النسفي?idfrom=1&amp;idto=6128">
+
+            <label style="cursor: pointer;" itemprop="name">تفسير النسفي
+            <span class="date">
+             - <meta itemprop="datePublished" content="1419 هـ - 1998 م">1419 هـ - 1998 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">النسفي - عبد الله بن أحمد بن محمود النسفي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الكلم الطيب</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/216/1/زاد-المسير?idfrom=1&amp;idto=2244">
+
+            <label style="cursor: pointer;" itemprop="name">زاد المسير
+            <span class="date">
+             - <meta itemprop="datePublished" content="1984م – 1404هـ">1984م – 1404هـ            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">ابن الجوزي - جمال الدين أبو الفرج عبد الرحمن بن علي الجوزي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">المكتب الإسلامي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/221/1/زهرة-التفاسير?idfrom=1&amp;idto=2980">
+
+            <label style="cursor: pointer;" itemprop="name">زهرة التفاسير
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">محمد أبو زهرة - محمد بن أحمد بن مصطفى بن أحمد</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الفكر العربي</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/407/1/فتح-الرحمن-في-تفسير-القرآن?idfrom=1&amp;idto=6234">
+
+            <label style="cursor: pointer;" itemprop="name">فتح الرحمن في تفسير القرآن
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">مجير الدين الحنبلي - مجير الدين بن محمد العليمي المقدسي الحنبلي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">وزارة الأوقاف والشؤون الإسلامية القطرية</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/66/1/فتح-القدير-الجامع-بين-فني-الرواية-والدراية?idfrom=1&amp;idto=861">
+
+            <label style="cursor: pointer;" itemprop="name">فتح القدير الجامع بين فني الرواية والدراية
+            <span class="date">
+             - <meta itemprop="datePublished" content="1423هـ / 2004م">1423هـ / 2004م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">الشوكاني - محمد بن علي بن محمد الشوكاني</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار المعرفة</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/210/1/في-ظلال-القرآن?idfrom=1&amp;idto=1221">
+
+            <label style="cursor: pointer;" itemprop="name">في ظلال القرآن
+            <span class="date">
+             - <meta itemprop="datePublished" content="1423 هـ - 2003 م">1423 هـ - 2003 م            </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">سيد قطب  - سيد قطب إبراهيم</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الشروق</label></label></samp>
+            </div>
+        </li>
+
+        <li class="answer" style="height:auto !important;cursor: pointer;" itemscope="" itemtype="https://schema.org/Book">
+
+            <h2>
+                        <a style="cursor: pointer;" href="/ar/library/content/214/1/نظم-الدرر-في-تناسب-الآيات-والسور?idfrom=1&amp;idto=6266">
+
+            <label style="cursor: pointer;" itemprop="name">نظم الدرر في تناسب الآيات والسور
+            <span class="date">
+                        </span>
+
+            </label></a>
+
+
+            </h2>
+
+            <div>
+
+
+            <a style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="a-inverse">
+            <label>
+            <span itemprop="author">البقاعي - برهان الدين أبي الحسن إبراهيم بن عمر البقاعي</span>
+
+            </label></a>
+
+
+            </div>
+
+            <div style="font-size: 20px;font-family: 'Lotus Linotype' !important;" class="info-book d-flex flex-row-reverse justify-content-between align-items-center">
+                <samp class="floatl">الموضوع:
+                <a href="index.php?page=bookslist&amp;subject=">تفسير القرآن</a></samp>
+                <samp><label>الناشر: <label itemprop="publisher">دار الكتاب الإسلامي</label></label></samp>
+            </div>
+        </li>
+
+
+	</ul>
+</div>
+<div class="clear" style="height:11px;"></div>
+
+<script>
+$(function() {
+  $("#searchtxtfilter").on('keyup', function(event) {
+    var text = $(this).val();
+  //  alert(text);
+
+    $('.answer:contains(' + text + ')').show();
+    $('.answer:not(:contains(' + text + '))').hide();
+  });
+});
+
+$(document).ready(function(){
+
+ $("#searchtxtfilter").focus();
+  //$("#authorselect").select2();
+   /* $('#authorselect').selectstyle({
+		width  : 400,
+		height : 300,
+	});
+    */
+});
+</script>
+<!-- cached old /data/islamweb_cache/ar/library/095eaff1f9ded5e4939a7cde7008ad5d -->
+	</div>
+
+	<div class="left-nav">
+		<script>
+function search_submit()
+{
+        window.open('/ar/library/index.php?page=websearch&stxt='+$('#T1').val()+'&Option='+$('input[name=wheretosearch]:checked').val()+'&R1='+$('input[name=R1]:checked').val()+'&R2='+$('input[name=R2]:checked').val()+'','_self');
+
+}
+</script>
+
+<div class="leftblock searchleft">
+	<h3><img src="/content/img/ico-35.png" alt=""> بحث في الكتب</h3>
+	<ul style="display: none;" class="two booksearch">
+		<li><label class="labelradio"><input type="radio" name="R1" value="1" checked="true"><samp></samp> كلمات متتالية</label></li>
+		<li><label class="labelradio"><input type="radio" name="R1" value="0"><samp></samp> كلمات مبعثرة</label></li>
+    </ul>
+    <!--<br />-->
+    <ul style="display: none;" class="two booksearch">
+		<li><label class="labelradio"><input type="radio" name="R2" value="0" checked="true"><samp></samp> مطابق</label></li>
+		<li><label class="labelradio"><input type="radio" name="R2" value="1"><samp></samp> الجذر والوزن</label></li>
+		<li><label class="labelradio"><input type="radio" name="R2" value="4"><samp></samp> اللواصق</label></li>
+	</ul>
+    <!--<br />-->
+    <ul style="display: none;" class="two booksearch">
+		<li><label class="labelradio"><input name="wheretosearch" value="0" checked="true" type="radio"><samp></samp> كل النصوص</label></li>
+		<li><label class="labelradio"><input name="wheretosearch" value="1" type="radio"><samp></samp> العناوين فقط</label></li>
+	</ul>
+
+	<div>
+		<input type="text" value="" name="T1" id="T1" onkeypress="javascript: var evt = event || window.event; if(evt.keyCode == '13') { search_submit(); return false; } " placeholder="كلمات البحث" class="booksearch inputstyle">
+		<input type="submit" onclick="javascript: search_submit();" value="" class="subsearch inputstyle">
+
+        <br><br>
+        [ <a href="index.php?page=websearch">بحث متقدم</a> ]
+
+	</div>
+</div>
+
+
+	<div class="leftblock fatCatleft list-topics">
+        <h3 style="font-family: 'GESSTwo';">
+        <span>
+            <img src="/contentver3/img/ico-topic.svg" alt=""> العرض الموضوعي
+        </span>
+            <a class="link-title">
+            <svg xmlns="http://www.w3.org/2000/svg" width="12.695" height="7.259" viewBox="0 0 12.695 7.259">
+                <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M12.537,16.317l4.8-4.8a.9.9,0,0,1,1.281,0,.915.915,0,0,1,0,1.285L13.18,18.241a.906.906,0,0,1-1.251.026L6.452,12.8a.907.907,0,1,1,1.281-1.285Z" transform="translate(-6.188 -11.246)" fill="#012d6b"></path>
+              </svg>
+
+           </a>
+        </h3>
+
+		<ul>
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=2','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=2">&nbsp;العبادات</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=5670','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=5670">&nbsp;المعاملات</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=21687','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=21687">&nbsp;العادات</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=23026','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=23026">&nbsp;الآداب الشرعية</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=26663','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=26663">&nbsp;أصول الفقه</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=29082','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=29082">&nbsp;المنطق</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=29115','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=29115">&nbsp;العقيدة</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=29995','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=29995">&nbsp;التفسير وعلوم القرآن</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=30451','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=30451">&nbsp;مصطلح الحديث</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=30662','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=30662">&nbsp;السيرة</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=32131','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=32131">&nbsp;التصوف والصوفية</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+                        <li onclick="javascript: window.open('/ar/library/index.php?page=TreeCategory&amp;ID=32186','_self');">
+
+                  <label class="tree_label" for="c1">
+                  <label style="cursor: pointer;font-size: 16px;"><a style="font-size: 16px;color: white;" href="/ar/library/index.php?page=TreeCategory&amp;ID=32186">&nbsp;التاريخ والأمم السابقة</a></label></label>
+
+                  <span> <svg xmlns="http://www.w3.org/2000/svg" width="6.458" height="7.381" viewBox="0 0 6.458 7.381">
+                    <path id="Icon_awesome-book" data-name="Icon awesome-book" d="M6.458,5.19V.346A.345.345,0,0,0,6.112,0H1.384A1.384,1.384,0,0,0,0,1.384V6A1.384,1.384,0,0,0,1.384,7.381H6.112a.345.345,0,0,0,.346-.346V6.8a.349.349,0,0,0-.128-.27,3.215,3.215,0,0,1,0-1.077A.344.344,0,0,0,6.458,5.19ZM1.845,1.932a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086V2.22a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086Zm0,.923a.087.087,0,0,1,.086-.086H4.988a.087.087,0,0,1,.086.086v.288a.087.087,0,0,1-.086.086H1.932a.087.087,0,0,1-.086-.086ZM5.5,6.458H1.384a.461.461,0,0,1,0-.923H5.5A5.19,5.19,0,0,0,5.5,6.458Z" fill="#9d9d9d"></path>
+                  </svg> </span>
+              </li>
+
+            		</ul>
+	</div>
+
+<div class="leftblock fatCatleft catlibrary">
+			<h3>
+			   <span>
+				<img src="/contentver3/img/ico-librarydept.svg" alt=""> تصنيف الكتب
+			</span>
+			<a class="link-title">
+				<svg xmlns="http://www.w3.org/2000/svg" width="12.695" height="7.259" viewBox="0 0 12.695 7.259">
+					<path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M12.537,16.317l4.8-4.8a.9.9,0,0,1,1.281,0,.915.915,0,0,1,0,1.285L13.18,18.241a.906.906,0,0,1-1.251.026L6.452,12.8a.907.907,0,1,1,1.281-1.285Z" transform="translate(-6.188 -11.246)" fill="#012d6b"></path>
+				  </svg>
+
+			   </a>
+			</h3>
+
+	<ul>
+		            <li>
+				<a href="index.php?page=bookslist&amp;subject=1">متون الحديث</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=4">أحاديث الأحكام</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=7">فروع الفقه الحنفي</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=10">فروع الفقه المالكي</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=13">الفقه المقارن</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=16">فروع الفقه الحنبلي</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=19">فروع الفقه الظاهري</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=22">فروع الفقه الشافعي</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=25">الفتاوى</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=28">أصول الفقه</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=31">القضاء</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=34">القواعد الفقهية</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=37">السياسة الشرعية</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=40">الآداب الشرعية</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=43">لغة الفقه</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=46">آيات الأحكام</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=49">تفسير القرآن</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=52">شروح الحديث</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=55">السيرة النبوية</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=58">التاريخ والتراجم</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=61">علوم القرآن</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=64">علوم الحديث</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=67">العقيدة</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=70">الآداب والرقائق</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=73">كتب اللغة العربية</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=76">كتاب الأمة</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+                    <li>
+				<a href="index.php?page=bookslist&amp;subject=79">فقه عام</a>
+				<span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="25.93" height="17.948" viewBox="0 0 25.93 17.948">
+                <path id="Icon_awesome-folder-open" data-name="Icon awesome-folder-open" d="M25.972,15.332l-3.2,5.492a2.831,2.831,0,0,1-2.446,1.4H2.628c-.819,0-1.146-.7-.734-1.4l3.02-5.684a2.831,2.831,0,0,1,2.446-1.4H25.055a1.062,1.062,0,0,1,.917,1.6ZM8.619,13.578h14.51V11.455a2.123,2.123,0,0,0-2.123-2.123H13.928L11.1,6.5H4.018A2.123,2.123,0,0,0,1.895,8.623v12.3l3.056-5.239A4.261,4.261,0,0,1,8.619,13.578Z" transform="translate(-0.955 -5.75)" fill="none" stroke="#012d6b" stroke-width="1.5"></path>
+                </svg>
+
+                </span>
+			</li>
+        	</ul>
+</div>
+
+	</div>
+
+
+	</section>
+
+	</div>
+
+
+
+
+
+
+</div>
+
+<!-- iwstat -->
+
+
+
+
+
+
+
+
+
+</body>

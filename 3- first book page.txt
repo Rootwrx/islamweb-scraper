@@ -1,0 +1,2540 @@
+
+
+https://islamweb.net/ar/library/content/209/1/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D8%AF%D9%8A?idfrom=1&idto=1762
+
+<body onload="libraryGoogleTag()" itemscope="" itemtype="http://schema.org/WebPage" style="" class="">
+
+<div class="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="portalpage">
+
+		<div class="portalheader">
+			<section>
+				<div class="title-page">
+		          <h1 class="logo"><a href="/ar/library"><img src="/contentver3/img/ico-library.svg" alt=""> المكتبة الإسلامية</a></h1>
+
+                  <a class="amobile nav-menu open"><svg xmlns="http://www.w3.org/2000/svg" width="12.695" height="7.259" viewBox="0 0 12.695 7.259">
+							<path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M12.537,16.317l4.8-4.8a.9.9,0,0,1,1.281,0,.915.915,0,0,1,0,1.285L13.18,18.241a.906.906,0,0,1-1.251.026L6.452,12.8a.907.907,0,1,1,1.281-1.285Z" transform="translate(-6.188 -11.246)" fill="#012d6b"></path>
+						</svg>
+					</a>
+
+
+
+
+<ul class="menu" style="display: block;">
+	<li><a href="/ar/library/pdfbooks/"><img src="/contentver3/img/options-ftawa.svg" alt="">
+كتب PDF</a></li>
+
+
+	<li><a href="/ar/library/index.php?page=ummabooks"><img src="/contentver3/img/ico-book.svg" alt="">
+	كتاب الأمة</a></li>
+
+	<li><a href="/ar/library/index.php?page=library_description"><img src="/contentver3/img/ico-info.svg" alt="">
+    حول المكتبة</a></li>
+
+	<li><a href="/ar/library/index.php?page=bookslist"><img src="/contentver3/img/ico-dbook.svg" alt="">
+    قائمة الكتب</a></li>
+
+	<li><a href="/ar/library/index.php?page=listing"><img src="/contentver3/img/ico-display.svg" alt="">
+    عرض موضوعي</a></li>
+
+	<li><a href="/ar/library/index.php?page=tarajem"><img src="/contentver3/img/ico-translate.svg" alt="">
+    تراجم الأعلام</a></li>
+</ul>
+            </div>
+
+
+			<ol id="topPath"><li><a href="index.php"><i class="fa fa-home"></i> الرئيسية</a></li><li><a href="/ar/library/content/209/1/تفسير-السعدي">تفسير السعدي</a></li><li>تفسير سورة الفاتحة</li></ol>
+
+
+		</section>
+	</div>
+
+
+
+	<section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="book-content">
+    <div class="position-relative d-flex wrapper-fhrs ">
+
+    <div class="book-left-nav " id="books_index_right">
+        <div class="bookindex">
+
+
+                    <div id="bookIndexScroll" style="min-height: auto;max-height: 1000px;overflow-y: scroll;">
+                        <div class="d-flex justify-content-between align-items-center p-3">
+                            <span class="txt-blue">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="29.983" height="20.23" viewBox="0 0 29.983 20.23">
+                                    <path id="menu_book_FILL1_wght200_GRAD0_opsz24" d="M97.817-755.563a.594.594,0,0,1,.114-.333.762.762,0,0,1,.27-.252,11.884,11.884,0,0,1,2.419-.793,12.421,12.421,0,0,1,2.618-.274,11.188,11.188,0,0,1,1.365.079q.644.079,1.328.229a.655.655,0,0,1,.336.2.55.55,0,0,1,.143.386.643.643,0,0,1-.225.548.689.689,0,0,1-.6.078,8.909,8.909,0,0,0-1.134-.154q-.581-.042-1.209-.042a11.992,11.992,0,0,0-2.358.231,12.4,12.4,0,0,0-2.188.646.683.683,0,0,1-.63-.009A.593.593,0,0,1,97.817-755.563Zm0,8.13a.662.662,0,0,1,.114-.347.729.729,0,0,1,.27-.267,10.055,10.055,0,0,1,2.419-.778,13.67,13.67,0,0,1,2.618-.259,11.188,11.188,0,0,1,1.365.079q.644.079,1.328.229a.655.655,0,0,1,.336.2.55.55,0,0,1,.143.386.643.643,0,0,1-.225.548.689.689,0,0,1-.6.078,8.909,8.909,0,0,0-1.134-.154q-.581-.042-1.209-.042a11.164,11.164,0,0,0-2.315.241,11.572,11.572,0,0,0-2.174.685.649.649,0,0,1-.659,0A.66.66,0,0,1,97.817-747.432Zm0-4.065a.663.663,0,0,1,.114-.347.73.73,0,0,1,.27-.267,11.3,11.3,0,0,1,2.419-.778,13.088,13.088,0,0,1,2.618-.259,11.188,11.188,0,0,1,1.365.079q.644.079,1.328.229a.655.655,0,0,1,.336.2.55.55,0,0,1,.143.386.642.642,0,0,1-.225.548.689.689,0,0,1-.6.078,8.9,8.9,0,0,0-1.134-.154q-.581-.042-1.209-.042a10.972,10.972,0,0,0-2.315.245,11.786,11.786,0,0,0-2.174.689.642.642,0,0,1-.659-.009A.672.672,0,0,1,97.817-751.5Zm-2.076,8.485a14.621,14.621,0,0,1,3.677-1.469,16.1,16.1,0,0,1,3.819-.451,15.908,15.908,0,0,1,2.426.167,11.521,11.521,0,0,1,1.9.444.645.645,0,0,0,.634-.043.654.654,0,0,0,.288-.591v-13.515a.774.774,0,0,0-.144-.461,1.108,1.108,0,0,0-.49-.346,12.9,12.9,0,0,0-2.25-.6,15.2,15.2,0,0,0-2.363-.161,13.723,13.723,0,0,0-3.918.579,11.961,11.961,0,0,0-3.578,1.738Zm-.75,1.7a2.261,2.261,0,0,1-.647-.088,3.237,3.237,0,0,1-.564-.226,14.943,14.943,0,0,0-3.4-1.351,14.376,14.376,0,0,0-3.63-.46,13.413,13.413,0,0,0-2.3.2,10.759,10.759,0,0,0-2.2.628,1.5,1.5,0,0,1-1.532-.2A1.685,1.685,0,0,1,80-744.247v-14.49a1.934,1.934,0,0,1,.293-1.032,1.542,1.542,0,0,1,.82-.663,12.294,12.294,0,0,1,2.747-.845,15.931,15.931,0,0,1,2.886-.262,14.748,14.748,0,0,1,4.3.634,15.29,15.29,0,0,1,3.948,1.845A15.29,15.29,0,0,1,98.94-760.9a14.748,14.748,0,0,1,4.3-.634,15.931,15.931,0,0,1,2.886.262,12.294,12.294,0,0,1,2.747.845,1.542,1.542,0,0,1,.82.663,1.934,1.934,0,0,1,.293,1.032v14.49a1.578,1.578,0,0,1-.774,1.413,1.766,1.766,0,0,1-1.648.167,10.791,10.791,0,0,0-2.126-.585,13.3,13.3,0,0,0-2.2-.182,14.376,14.376,0,0,0-3.63.46,14.943,14.943,0,0,0-3.4,1.351,3.237,3.237,0,0,1-.564.226A2.261,2.261,0,0,1,94.992-741.309Z" transform="translate(-80 761.539)" fill="#012d6b"></path>
+                                  </svg>
+فهرس الكتاب
+                            </span>
+                            <a class="close-bookindex"><svg xmlns="http://www.w3.org/2000/svg" width="16.5" height="16.5" viewBox="0 0 16.5 16.5">
+                                <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M24.023,9.173l-1.65-1.65-6.6,6.6-6.6-6.6-1.65,1.65,6.6,6.6-6.6,6.6,1.65,1.65,6.6-6.6,6.6,6.6,1.65-1.65-6.6-6.6Z" transform="translate(-7.523 -7.523)" fill="#012d6b"></path>
+                              </svg>
+                              </a>
+                        </div>
+
+
+                        <!--<div class="bookindex">
+	<h1>
+		<label class="h3info checresults floatl" title="ط¹ط±ط¶ ظ†طھط§ط¦ط¬ ط§ظ„ط§ط¨ظˆط§ط¨ ط§ظ„ظ…ط®طھط§ط±ظ‡ ظپظ‚ط·"><input type="checkbox" id="showexact" checked=""><i class="fa fa-info"><span>ظ†طھط§ط¦ط¬ ظپظ‚ط·</span></i></label>
+		<div class="floatr">
+			<input type="text" placeholder="ظƒظ„ظ…ط§طھ ط§ظ„ط¨ط­ط«" class="booksearch inputstyle floatr" />
+			<input type="submit" value="ï€‚" id="search3adasa" class="subsearch inputstyle floatr" />
+		</div>
+	</h1>
+
+    <div id="bookIndexScroll" style="min-height: auto;max-height: 1000px;overflow-y: scroll;"> -->
+    <ul class="tree m-0">
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a2">
+    		<label class="plusbutton tree_label" data-level="1" data-id="2" data-href="nindex.php?id=2&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="2" style="text-decoration: none; list-style: none; color: rgb(0, 0, 0); text-align: right; background-color: rgb(255, 255, 0);" data-idfrom="1" data-idto="1" data-node="0" data-bookid="209" for="a2">تفسير سورة الفاتحة</label>
+
+            <ul id="childrens2" data-id="2" style="display: none;">
+
+
+	    <li style="padding: 0px;">
+
+
+
+
+    <ul>
+        <li><span class="tree_label">
+        <a id="3" style="text-decoration:none; cursor:pointer; font-size: 15px;" href="/ar/library/content/209/1/تفسير-قوله-تعالى-بسم-الله-الرحمن-الرحيم-الحمد-لله-رب-العالمين">
+        تفسير قوله تعالى بسم الله الرحمن الرحيم الحمد لله رب العالمين        </a></span></li>
+    </ul>
+
+    </li>
+
+		<input type="hidden" value="&amp;bookid=209&amp;idfrom=1&amp;idto=1" id="HidParam3">
+
+<div id="childs3" style="display:none;"></div>
+
+<!-- cached old /data/islamweb_cache/ar/library/maktaba/f4bbe3071af7aa6f7c3a820ad8ed5830 --></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1&amp;idto=1" id="HidParam2">
+
+    <div id="childs2" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a4">
+    		<label class="plusbutton tree_label" data-level="1" data-id="4" data-href="nindex.php?id=4&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="4" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="2" data-idto="157" data-node="0" data-bookid="209" for="a4">تفسير سورة البقرة</label>
+
+            <ul id="childrens4" data-id="4"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=2&amp;idto=157" id="HidParam4">
+
+    <div id="childs4" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a161">
+    		<label class="plusbutton tree_label" data-level="1" data-id="161" data-href="nindex.php?id=161&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="161" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="158" data-idto="236" data-node="0" data-bookid="209" for="a161">تفسير سورة آل عمران</label>
+
+            <ul id="childrens161" data-id="161"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=158&amp;idto=236" id="HidParam161">
+
+    <div id="childs161" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a241">
+    		<label class="plusbutton tree_label" data-level="1" data-id="241" data-href="nindex.php?id=241&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="241" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="237" data-idto="329" data-node="0" data-bookid="209" for="a241">تفسير سورة النساء</label>
+
+            <ul id="childrens241" data-id="241"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=237&amp;idto=329" id="HidParam241">
+
+    <div id="childs241" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a335">
+    		<label class="plusbutton tree_label" data-level="1" data-id="335" data-href="nindex.php?id=335&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="335" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="330" data-idto="383" data-node="0" data-bookid="209" for="a335">تفسير سورة المائدة</label>
+
+            <ul id="childrens335" data-id="335"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=330&amp;idto=383" id="HidParam335">
+
+    <div id="childs335" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a390">
+    		<label class="plusbutton tree_label" data-level="1" data-id="390" data-href="nindex.php?id=390&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="390" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="384" data-idto="449" data-node="0" data-bookid="209" for="a390">تفسير سورة الأنعام</label>
+
+            <ul id="childrens390" data-id="390"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=384&amp;idto=449" id="HidParam390">
+
+    <div id="childs390" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a457">
+    		<label class="plusbutton tree_label" data-level="1" data-id="457" data-href="nindex.php?id=457&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="457" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="450" data-idto="496" data-node="0" data-bookid="209" for="a457">تفسير سورة الأعراف</label>
+
+            <ul id="childrens457" data-id="457"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=450&amp;idto=496" id="HidParam457">
+
+    <div id="childs457" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a505">
+    		<label class="plusbutton tree_label" data-level="1" data-id="505" data-href="nindex.php?id=505&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="505" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="497" data-idto="528" data-node="0" data-bookid="209" for="a505">تفسير سورة الأنفال</label>
+
+            <ul id="childrens505" data-id="505"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=497&amp;idto=528" id="HidParam505">
+
+    <div id="childs505" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a538">
+    		<label class="plusbutton tree_label" data-level="1" data-id="538" data-href="nindex.php?id=538&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="538" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="529" data-idto="594" data-node="0" data-bookid="209" for="a538">تفسير سورة براءة</label>
+
+            <ul id="childrens538" data-id="538"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=529&amp;idto=594" id="HidParam538">
+
+    <div id="childs538" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a605">
+    		<label class="plusbutton tree_label" data-level="1" data-id="605" data-href="nindex.php?id=605&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="605" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="595" data-idto="638" data-node="0" data-bookid="209" for="a605">تفسير سورة يونس</label>
+
+            <ul id="childrens605" data-id="605"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=595&amp;idto=638" id="HidParam605">
+
+    <div id="childs605" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a650">
+    		<label class="plusbutton tree_label" data-level="1" data-id="650" data-href="nindex.php?id=650&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="650" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="639" data-idto="663" data-node="0" data-bookid="209" for="a650">تفسير سورة هود</label>
+
+            <ul id="childrens650" data-id="650"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=639&amp;idto=663" id="HidParam650">
+
+    <div id="childs650" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a676">
+    		<label class="plusbutton tree_label" data-level="1" data-id="676" data-href="nindex.php?id=676&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="676" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="664" data-idto="691" data-node="0" data-bookid="209" for="a676">تفسير سورة يوسف</label>
+
+            <ul id="childrens676" data-id="676"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=664&amp;idto=691" id="HidParam676">
+
+    <div id="childs676" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a705">
+    		<label class="plusbutton tree_label" data-level="1" data-id="705" data-href="nindex.php?id=705&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="705" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="692" data-idto="717" data-node="0" data-bookid="209" for="a705">تفسير سورة الرعد</label>
+
+            <ul id="childrens705" data-id="705"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=692&amp;idto=717" id="HidParam705">
+
+    <div id="childs705" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a732">
+    		<label class="plusbutton tree_label" data-level="1" data-id="732" data-href="nindex.php?id=732&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="732" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="718" data-idto="734" data-node="0" data-bookid="209" for="a732">تفسير سورة إبراهيم</label>
+
+            <ul id="childrens732" data-id="732"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=718&amp;idto=734" id="HidParam732">
+
+    <div id="childs732" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a750">
+    		<label class="plusbutton tree_label" data-level="1" data-id="750" data-href="nindex.php?id=750&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="750" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="735" data-idto="750" data-node="0" data-bookid="209" for="a750">تفسير سورة الحجر</label>
+
+            <ul id="childrens750" data-id="750"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=735&amp;idto=750" id="HidParam750">
+
+    <div id="childs750" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a767">
+    		<label class="plusbutton tree_label" data-level="1" data-id="767" data-href="nindex.php?id=767&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="767" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="751" data-idto="803" data-node="0" data-bookid="209" for="a767">تفسير سورة النحل</label>
+
+            <ul id="childrens767" data-id="767"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=751&amp;idto=803" id="HidParam767">
+
+    <div id="childs767" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a821">
+    		<label class="plusbutton tree_label" data-level="1" data-id="821" data-href="nindex.php?id=821&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="821" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="804" data-idto="849" data-node="0" data-bookid="209" for="a821">تفسير سورة الإسراء</label>
+
+            <ul id="childrens821" data-id="821"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=804&amp;idto=849" id="HidParam821">
+
+    <div id="childs821" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a868">
+    		<label class="plusbutton tree_label" data-level="1" data-id="868" data-href="nindex.php?id=868&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="868" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="850" data-idto="886" data-node="0" data-bookid="209" for="a868">تفسير سورة الكهف</label>
+
+            <ul id="childrens868" data-id="868"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=850&amp;idto=886" id="HidParam868">
+
+    <div id="childs868" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a906">
+    		<label class="plusbutton tree_label" data-level="1" data-id="906" data-href="nindex.php?id=906&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="906" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="887" data-idto="914" data-node="0" data-bookid="209" for="a906">تفسير سورة مريم</label>
+
+            <ul id="childrens906" data-id="906"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=887&amp;idto=914" id="HidParam906">
+
+    <div id="childs906" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a935">
+    		<label class="plusbutton tree_label" data-level="1" data-id="935" data-href="nindex.php?id=935&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="935" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="915" data-idto="945" data-node="0" data-bookid="209" for="a935">تفسير سورة طه</label>
+
+            <ul id="childrens935" data-id="935"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=915&amp;idto=945" id="HidParam935">
+
+    <div id="childs935" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a967">
+    		<label class="plusbutton tree_label" data-level="1" data-id="967" data-href="nindex.php?id=967&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="967" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="946" data-idto="976" data-node="0" data-bookid="209" for="a967">تفسير سورة الأنبياء</label>
+
+            <ul id="childrens967" data-id="967"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=946&amp;idto=976" id="HidParam967">
+
+    <div id="childs967" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a999">
+    		<label class="plusbutton tree_label" data-level="1" data-id="999" data-href="nindex.php?id=999&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="999" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="977" data-idto="1008" data-node="0" data-bookid="209" for="a999">تفسير سورة الحج</label>
+
+            <ul id="childrens999" data-id="999"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=977&amp;idto=1008" id="HidParam999">
+
+    <div id="childs999" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1032">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1032" data-href="nindex.php?id=1032&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1032" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1009" data-idto="1033" data-node="0" data-bookid="209" for="a1032">تفسير سورة المؤمنون</label>
+
+            <ul id="childrens1032" data-id="1032"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1009&amp;idto=1033" id="HidParam1032">
+
+    <div id="childs1032" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1058">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1058" data-href="nindex.php?id=1058&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1058" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1034" data-idto="1060" data-node="0" data-bookid="209" for="a1058">تفسير سورة النور</label>
+
+            <ul id="childrens1058" data-id="1058"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1034&amp;idto=1060" id="HidParam1058">
+
+    <div id="childs1058" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1086">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1086" data-href="nindex.php?id=1086&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1086" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1061" data-idto="1084" data-node="0" data-bookid="209" for="a1086">تفسير سورة الفرقان</label>
+
+            <ul id="childrens1086" data-id="1086"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1061&amp;idto=1084" id="HidParam1086">
+
+    <div id="childs1086" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1111">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1111" data-href="nindex.php?id=1111&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1111" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1085" data-idto="1098" data-node="0" data-bookid="209" for="a1111">تفسير سورة الشعراء</label>
+
+            <ul id="childrens1111" data-id="1111"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1085&amp;idto=1098" id="HidParam1111">
+
+    <div id="childs1111" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1126">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1126" data-href="nindex.php?id=1126&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1126" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1099" data-idto="1120" data-node="0" data-bookid="209" for="a1126">تفسير سورة النمل</label>
+
+            <ul id="childrens1126" data-id="1126"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1099&amp;idto=1120" id="HidParam1126">
+
+    <div id="childs1126" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1149">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1149" data-href="nindex.php?id=1149&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1149" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1121" data-idto="1134" data-node="0" data-bookid="209" for="a1149">تفسير سورة القصص</label>
+
+            <ul id="childrens1149" data-id="1149"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1121&amp;idto=1134" id="HidParam1149">
+
+    <div id="childs1149" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1164">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1164" data-href="nindex.php?id=1164&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1164" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1135" data-idto="1162" data-node="0" data-bookid="209" for="a1164">تفسير سورة العنكبوت</label>
+
+            <ul id="childrens1164" data-id="1164"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1135&amp;idto=1162" id="HidParam1164">
+
+    <div id="childs1164" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1193">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1193" data-href="nindex.php?id=1193&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1193" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1163" data-idto="1187" data-node="0" data-bookid="209" for="a1193">تفسير سورة الروم</label>
+
+            <ul id="childrens1193" data-id="1193"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1163&amp;idto=1187" id="HidParam1193">
+
+    <div id="childs1193" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1219">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1219" data-href="nindex.php?id=1219&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1219" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1188" data-idto="1198" data-node="0" data-bookid="209" for="a1219">تفسير سورة لقمان</label>
+
+            <ul id="childrens1219" data-id="1219"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1188&amp;idto=1198" id="HidParam1219">
+
+    <div id="childs1219" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1231">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1231" data-href="nindex.php?id=1231&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1231" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1199" data-idto="1209" data-node="0" data-bookid="209" for="a1231">تفسير سورة السجدة</label>
+
+            <ul id="childrens1231" data-id="1231"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1199&amp;idto=1209" id="HidParam1231">
+
+    <div id="childs1231" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1243">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1243" data-href="nindex.php?id=1243&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1243" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1210" data-idto="1239" data-node="0" data-bookid="209" for="a1243">تفسير سورة الأحزاب</label>
+
+            <ul id="childrens1243" data-id="1243"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1210&amp;idto=1239" id="HidParam1243">
+
+    <div id="childs1243" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1274">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1274" data-href="nindex.php?id=1274&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1274" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1240" data-idto="1255" data-node="0" data-bookid="209" for="a1274">تفسير سورة سبأ</label>
+
+            <ul id="childrens1274" data-id="1274"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1240&amp;idto=1255" id="HidParam1274">
+
+    <div id="childs1274" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1291">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1291" data-href="nindex.php?id=1291&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1291" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1256" data-idto="1276" data-node="0" data-bookid="209" for="a1291">تفسير سورة فاطر</label>
+
+            <ul id="childrens1291" data-id="1291"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1256&amp;idto=1276" id="HidParam1291">
+
+    <div id="childs1291" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1313">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1313" data-href="nindex.php?id=1313&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1313" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1277" data-idto="1290" data-node="0" data-bookid="209" for="a1313">تفسير سورة يس</label>
+
+            <ul id="childrens1313" data-id="1313"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1277&amp;idto=1290" id="HidParam1313">
+
+    <div id="childs1313" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1328">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1328" data-href="nindex.php?id=1328&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1328" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1291" data-idto="1308" data-node="0" data-bookid="209" for="a1328">تفسير سورة الصافات</label>
+
+            <ul id="childrens1328" data-id="1328"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1291&amp;idto=1308" id="HidParam1328">
+
+    <div id="childs1328" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1347">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1347" data-href="nindex.php?id=1347&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1347" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1309" data-idto="1321" data-node="0" data-bookid="209" for="a1347">تفسير سورة ص</label>
+
+            <ul id="childrens1347" data-id="1347"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1309&amp;idto=1321" id="HidParam1347">
+
+    <div id="childs1347" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1361">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1361" data-href="nindex.php?id=1361&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1361" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1322" data-idto="1352" data-node="0" data-bookid="209" for="a1361">تفسير سورة الزمر</label>
+
+            <ul id="childrens1361" data-id="1361"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1322&amp;idto=1352" id="HidParam1361">
+
+    <div id="childs1361" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1393">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1393" data-href="nindex.php?id=1393&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1393" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1353" data-idto="1373" data-node="0" data-bookid="209" for="a1393">تفسير سورة غافر</label>
+
+            <ul id="childrens1393" data-id="1393"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1353&amp;idto=1373" id="HidParam1393">
+
+    <div id="childs1393" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1415">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1415" data-href="nindex.php?id=1415&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1415" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1374" data-idto="1392" data-node="0" data-bookid="209" for="a1415">تفسير سورة فصلت</label>
+
+            <ul id="childrens1415" data-id="1415"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1374&amp;idto=1392" id="HidParam1415">
+
+    <div id="childs1415" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1435">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1435" data-href="nindex.php?id=1435&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1435" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1393" data-idto="1411" data-node="0" data-bookid="209" for="a1435">تفسير سورة الشورى</label>
+
+            <ul id="childrens1435" data-id="1435"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1393&amp;idto=1411" id="HidParam1435">
+
+    <div id="childs1435" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1455">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1455" data-href="nindex.php?id=1455&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1455" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1412" data-idto="1426" data-node="0" data-bookid="209" for="a1455">تفسير سورة الزخرف</label>
+
+            <ul id="childrens1455" data-id="1455"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1412&amp;idto=1426" id="HidParam1455">
+
+    <div id="childs1455" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1471">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1471" data-href="nindex.php?id=1471&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1471" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1427" data-idto="1432" data-node="0" data-bookid="209" for="a1471">تفسير سورة الدخان</label>
+
+            <ul id="childrens1471" data-id="1471"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1427&amp;idto=1432" id="HidParam1471">
+
+    <div id="childs1471" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1478">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1478" data-href="nindex.php?id=1478&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1478" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1433" data-idto="1442" data-node="0" data-bookid="209" for="a1478">تفسير سورة الجاثية</label>
+
+            <ul id="childrens1478" data-id="1478"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1433&amp;idto=1442" id="HidParam1478">
+
+    <div id="childs1478" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1489">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1489" data-href="nindex.php?id=1489&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1489" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1443" data-idto="1455" data-node="0" data-bookid="209" for="a1489">تفسير سورة الأحقاف</label>
+
+            <ul id="childrens1489" data-id="1489"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1443&amp;idto=1455" id="HidParam1489">
+
+    <div id="childs1489" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1503">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1503" data-href="nindex.php?id=1503&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1503" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1456" data-idto="1474" data-node="0" data-bookid="209" for="a1503">تفسير سورة القتال</label>
+
+            <ul id="childrens1503" data-id="1503"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1456&amp;idto=1474" id="HidParam1503">
+
+    <div id="childs1503" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1523">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1523" data-href="nindex.php?id=1523&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1523" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1475" data-idto="1489" data-node="0" data-bookid="209" for="a1523">تفسير سورة الفتح</label>
+
+            <ul id="childrens1523" data-id="1523"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1475&amp;idto=1489" id="HidParam1523">
+
+    <div id="childs1523" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1539">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1539" data-href="nindex.php?id=1539&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1539" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1490" data-idto="1498" data-node="0" data-bookid="209" for="a1539">تفسير سورة الحجرات</label>
+
+            <ul id="childrens1539" data-id="1539"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1490&amp;idto=1498" id="HidParam1539">
+
+    <div id="childs1539" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1549">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1549" data-href="nindex.php?id=1549&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1549" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1499" data-idto="1509" data-node="0" data-bookid="209" for="a1549">تفسير سورة ق</label>
+
+            <ul id="childrens1549" data-id="1549"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1499&amp;idto=1509" id="HidParam1549">
+
+    <div id="childs1549" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1561">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1561" data-href="nindex.php?id=1561&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1561" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1510" data-idto="1524" data-node="0" data-bookid="209" for="a1561">تفسير سورة الذاريات</label>
+
+            <ul id="childrens1561" data-id="1561"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1510&amp;idto=1524" id="HidParam1561">
+
+    <div id="childs1561" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1577">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1577" data-href="nindex.php?id=1577&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1577" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1525" data-idto="1530" data-node="0" data-bookid="209" for="a1577">تفسير سورة الطور</label>
+
+            <ul id="childrens1577" data-id="1577"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1525&amp;idto=1530" id="HidParam1577">
+
+    <div id="childs1577" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1584">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1584" data-href="nindex.php?id=1584&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1584" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1531" data-idto="1536" data-node="0" data-bookid="209" for="a1584">تفسير سورة النجم</label>
+
+            <ul id="childrens1584" data-id="1584"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1531&amp;idto=1536" id="HidParam1584">
+
+    <div id="childs1584" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1591">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1591" data-href="nindex.php?id=1591&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1591" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1537" data-idto="1543" data-node="0" data-bookid="209" for="a1591">تفسير سورة القمر</label>
+
+            <ul id="childrens1591" data-id="1591"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1537&amp;idto=1543" id="HidParam1591">
+
+    <div id="childs1591" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1599">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1599" data-href="nindex.php?id=1599&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1599" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1544" data-idto="1556" data-node="0" data-bookid="209" for="a1599">تفسير سورة الرحمن</label>
+
+            <ul id="childrens1599" data-id="1599"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1544&amp;idto=1556" id="HidParam1599">
+
+    <div id="childs1599" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1613">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1613" data-href="nindex.php?id=1613&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1613" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1557" data-idto="1566" data-node="0" data-bookid="209" for="a1613">تفسير سورة الواقعة</label>
+
+            <ul id="childrens1613" data-id="1613"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1557&amp;idto=1566" id="HidParam1613">
+
+    <div id="childs1613" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1624">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1624" data-href="nindex.php?id=1624&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1624" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1567" data-idto="1575" data-node="0" data-bookid="209" for="a1624">تفسير سورة الحديد</label>
+
+            <ul id="childrens1624" data-id="1624"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1567&amp;idto=1575" id="HidParam1624">
+
+    <div id="childs1624" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1634">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1634" data-href="nindex.php?id=1634&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1634" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1576" data-idto="1585" data-node="0" data-bookid="209" for="a1634">تفسير سورة قد سمع</label>
+
+            <ul id="childrens1634" data-id="1634"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1576&amp;idto=1585" id="HidParam1634">
+
+    <div id="childs1634" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1645">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1645" data-href="nindex.php?id=1645&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1645" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1586" data-idto="1588" data-node="0" data-bookid="209" for="a1645">تفسير سورة الحشر</label>
+
+            <ul id="childrens1645" data-id="1645"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1586&amp;idto=1588" id="HidParam1645">
+
+    <div id="childs1645" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1649">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1649" data-href="nindex.php?id=1649&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1649" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1589" data-idto="1592" data-node="0" data-bookid="209" for="a1649">تفسير سورة الممتحنة</label>
+
+            <ul id="childrens1649" data-id="1649"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1589&amp;idto=1592" id="HidParam1649">
+
+    <div id="childs1649" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1654">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1654" data-href="nindex.php?id=1654&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1654" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1593" data-idto="1597" data-node="0" data-bookid="209" for="a1654">تفسير سورة الصف</label>
+
+            <ul id="childrens1654" data-id="1654"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1593&amp;idto=1597" id="HidParam1654">
+
+    <div id="childs1654" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1660">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1660" data-href="nindex.php?id=1660&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1660" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1598" data-idto="1601" data-node="0" data-bookid="209" for="a1660">تفسير سورة الجمعة</label>
+
+            <ul id="childrens1660" data-id="1660"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1598&amp;idto=1601" id="HidParam1660">
+
+    <div id="childs1660" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1665">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1665" data-href="nindex.php?id=1665&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1665" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1602" data-idto="1604" data-node="0" data-bookid="209" for="a1665">تفسير سورة المنافقون</label>
+
+            <ul id="childrens1665" data-id="1665"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1602&amp;idto=1604" id="HidParam1665">
+
+    <div id="childs1665" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1669">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1669" data-href="nindex.php?id=1669&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1669" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1605" data-idto="1612" data-node="0" data-bookid="209" for="a1669">تفسير سورة التغابن</label>
+
+            <ul id="childrens1669" data-id="1669"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1605&amp;idto=1612" id="HidParam1669">
+
+    <div id="childs1669" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1678">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1678" data-href="nindex.php?id=1678&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1678" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1613" data-idto="1616" data-node="0" data-bookid="209" for="a1678">تفسير سورة الطلاق</label>
+
+            <ul id="childrens1678" data-id="1678"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1613&amp;idto=1616" id="HidParam1678">
+
+    <div id="childs1678" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1683">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1683" data-href="nindex.php?id=1683&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1683" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1617" data-idto="1622" data-node="0" data-bookid="209" for="a1683">تفسير سورة التحريم</label>
+
+            <ul id="childrens1683" data-id="1683"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1617&amp;idto=1622" id="HidParam1683">
+
+    <div id="childs1683" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1690">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1690" data-href="nindex.php?id=1690&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1690" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1623" data-idto="1633" data-node="0" data-bookid="209" for="a1690">تفسير سورة الملك</label>
+
+            <ul id="childrens1690" data-id="1690"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1623&amp;idto=1633" id="HidParam1690">
+
+    <div id="childs1690" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1702">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1702" data-href="nindex.php?id=1702&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1702" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1634" data-idto="1639" data-node="0" data-bookid="209" for="a1702">تفسير سورة القلم</label>
+
+            <ul id="childrens1702" data-id="1702"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1634&amp;idto=1639" id="HidParam1702">
+
+    <div id="childs1702" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1709">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1709" data-href="nindex.php?id=1709&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1709" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1640" data-idto="1645" data-node="0" data-bookid="209" for="a1709">تفسير سورة الحاقة</label>
+
+            <ul id="childrens1709" data-id="1709"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1640&amp;idto=1645" id="HidParam1709">
+
+    <div id="childs1709" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1716">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1716" data-href="nindex.php?id=1716&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1716" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1646" data-idto="1650" data-node="0" data-bookid="209" for="a1716">تفسير سورة المعارج</label>
+
+            <ul id="childrens1716" data-id="1716"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1646&amp;idto=1650" id="HidParam1716">
+
+    <div id="childs1716" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1722">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1722" data-href="nindex.php?id=1722&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1722" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1651" data-idto="1651" data-node="0" data-bookid="209" for="a1722">تفسير سورة نوح</label>
+
+            <ul id="childrens1722" data-id="1722"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1651&amp;idto=1651" id="HidParam1722">
+
+    <div id="childs1722" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1724">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1724" data-href="nindex.php?id=1724&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1724" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1652" data-idto="1663" data-node="0" data-bookid="209" for="a1724">تفسير سورة الجن</label>
+
+            <ul id="childrens1724" data-id="1724"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1652&amp;idto=1663" id="HidParam1724">
+
+    <div id="childs1724" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1737">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1737" data-href="nindex.php?id=1737&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1737" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1664" data-idto="1669" data-node="0" data-bookid="209" for="a1737">تفسير سورة المزمل</label>
+
+            <ul id="childrens1737" data-id="1737"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1664&amp;idto=1669" id="HidParam1737">
+
+    <div id="childs1737" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1744">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1744" data-href="nindex.php?id=1744&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1744" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1670" data-idto="1674" data-node="0" data-bookid="209" for="a1744">تفسير سورة المدثر</label>
+
+            <ul id="childrens1744" data-id="1744"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1670&amp;idto=1674" id="HidParam1744">
+
+    <div id="childs1744" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1750">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1750" data-href="nindex.php?id=1750&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1750" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1675" data-idto="1679" data-node="0" data-bookid="209" for="a1750">تفسير سورة القيامة</label>
+
+            <ul id="childrens1750" data-id="1750"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1675&amp;idto=1679" id="HidParam1750">
+
+    <div id="childs1750" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1756">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1756" data-href="nindex.php?id=1756&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1756" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1680" data-idto="1681" data-node="0" data-bookid="209" for="a1756">تفسير سورة الإنسان</label>
+
+            <ul id="childrens1756" data-id="1756"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1680&amp;idto=1681" id="HidParam1756">
+
+    <div id="childs1756" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1759">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1759" data-href="nindex.php?id=1759&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1759" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1682" data-idto="1689" data-node="0" data-bookid="209" for="a1759">تفسير سورة المرسلات</label>
+
+            <ul id="childrens1759" data-id="1759"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1682&amp;idto=1689" id="HidParam1759">
+
+    <div id="childs1759" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1768">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1768" data-href="nindex.php?id=1768&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1768" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1690" data-idto="1694" data-node="0" data-bookid="209" for="a1768">تفسير سورة النبإ</label>
+
+            <ul id="childrens1768" data-id="1768"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1690&amp;idto=1694" id="HidParam1768">
+
+    <div id="childs1768" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1774">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1774" data-href="nindex.php?id=1774&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1774" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1695" data-idto="1699" data-node="0" data-bookid="209" for="a1774">تفسير سورة النازعات</label>
+
+            <ul id="childrens1774" data-id="1774"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1695&amp;idto=1699" id="HidParam1774">
+
+    <div id="childs1774" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1780">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1780" data-href="nindex.php?id=1780&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1780" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1700" data-idto="1702" data-node="0" data-bookid="209" for="a1780">تفسير سورة عبس</label>
+
+            <ul id="childrens1780" data-id="1780"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1700&amp;idto=1702" id="HidParam1780">
+
+    <div id="childs1780" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1784">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1784" data-href="nindex.php?id=1784&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1784" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1703" data-idto="1704" data-node="0" data-bookid="209" for="a1784">تفسير سورة التكوير</label>
+
+            <ul id="childrens1784" data-id="1784"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1703&amp;idto=1704" id="HidParam1784">
+
+    <div id="childs1784" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1787">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1787" data-href="nindex.php?id=1787&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1787" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1705" data-idto="1707" data-node="0" data-bookid="209" for="a1787">تفسير سورة الانفطار</label>
+
+            <ul id="childrens1787" data-id="1787"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1705&amp;idto=1707" id="HidParam1787">
+
+    <div id="childs1787" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1791">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1791" data-href="nindex.php?id=1791&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1791" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1708" data-idto="1711" data-node="0" data-bookid="209" for="a1791">تفسير سورة المطففين</label>
+
+            <ul id="childrens1791" data-id="1791"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1708&amp;idto=1711" id="HidParam1791">
+
+    <div id="childs1791" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1796">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1796" data-href="nindex.php?id=1796&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1796" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1712" data-idto="1713" data-node="0" data-bookid="209" for="a1796">تفسير سورة الانشقاق</label>
+
+            <ul id="childrens1796" data-id="1796"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1712&amp;idto=1713" id="HidParam1796">
+
+    <div id="childs1796" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1799">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1799" data-href="nindex.php?id=1799&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1799" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1714" data-idto="1714" data-node="0" data-bookid="209" for="a1799">تفسير سورة البروج</label>
+
+            <ul id="childrens1799" data-id="1799"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1714&amp;idto=1714" id="HidParam1799">
+
+    <div id="childs1799" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1801">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1801" data-href="nindex.php?id=1801&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1801" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1715" data-idto="1715" data-node="0" data-bookid="209" for="a1801">تفسير سورة الطارق</label>
+
+            <ul id="childrens1801" data-id="1801"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1715&amp;idto=1715" id="HidParam1801">
+
+    <div id="childs1801" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1803">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1803" data-href="nindex.php?id=1803&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1803" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1716" data-idto="1716" data-node="0" data-bookid="209" for="a1803">تفسير سورة الأعلى</label>
+
+            <ul id="childrens1803" data-id="1803"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1716&amp;idto=1716" id="HidParam1803">
+
+    <div id="childs1803" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1805">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1805" data-href="nindex.php?id=1805&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1805" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1717" data-idto="1718" data-node="0" data-bookid="209" for="a1805">تفسير سورة الغاشية</label>
+
+            <ul id="childrens1805" data-id="1805"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1717&amp;idto=1718" id="HidParam1805">
+
+    <div id="childs1805" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1808">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1808" data-href="nindex.php?id=1808&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1808" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1719" data-idto="1722" data-node="0" data-bookid="209" for="a1808">تفسير سورة الفجر</label>
+
+            <ul id="childrens1808" data-id="1808"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1719&amp;idto=1722" id="HidParam1808">
+
+    <div id="childs1808" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1813">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1813" data-href="nindex.php?id=1813&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1813" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1723" data-idto="1723" data-node="0" data-bookid="209" for="a1813">تفسير سورة البلد</label>
+
+            <ul id="childrens1813" data-id="1813"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1723&amp;idto=1723" id="HidParam1813">
+
+    <div id="childs1813" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1815">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1815" data-href="nindex.php?id=1815&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1815" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1724" data-idto="1724" data-node="0" data-bookid="209" for="a1815">تفسير سورة الشمس</label>
+
+            <ul id="childrens1815" data-id="1815"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1724&amp;idto=1724" id="HidParam1815">
+
+    <div id="childs1815" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1817">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1817" data-href="nindex.php?id=1817&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1817" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1725" data-idto="1725" data-node="0" data-bookid="209" for="a1817">تفسير سورة الليل</label>
+
+            <ul id="childrens1817" data-id="1817"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1725&amp;idto=1725" id="HidParam1817">
+
+    <div id="childs1817" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1819">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1819" data-href="nindex.php?id=1819&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1819" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1726" data-idto="1726" data-node="0" data-bookid="209" for="a1819">تفسير سورة الضحى</label>
+
+            <ul id="childrens1819" data-id="1819"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1726&amp;idto=1726" id="HidParam1819">
+
+    <div id="childs1819" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1821">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1821" data-href="nindex.php?id=1821&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1821" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1727" data-idto="1727" data-node="0" data-bookid="209" for="a1821">تفسير سورة ألم نشرح لك صدرك</label>
+
+            <ul id="childrens1821" data-id="1821"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1727&amp;idto=1727" id="HidParam1821">
+
+    <div id="childs1821" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1823">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1823" data-href="nindex.php?id=1823&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1823" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1728" data-idto="1728" data-node="0" data-bookid="209" for="a1823">تفسير سورة التين</label>
+
+            <ul id="childrens1823" data-id="1823"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1728&amp;idto=1728" id="HidParam1823">
+
+    <div id="childs1823" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1825">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1825" data-href="nindex.php?id=1825&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1825" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1729" data-idto="1729" data-node="0" data-bookid="209" for="a1825">تفسير سورة اقرأ</label>
+
+            <ul id="childrens1825" data-id="1825"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1729&amp;idto=1729" id="HidParam1825">
+
+    <div id="childs1825" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1827">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1827" data-href="nindex.php?id=1827&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1827" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1730" data-idto="1730" data-node="0" data-bookid="209" for="a1827">تفسير سورة القدر</label>
+
+            <ul id="childrens1827" data-id="1827"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1730&amp;idto=1730" id="HidParam1827">
+
+    <div id="childs1827" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1829">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1829" data-href="nindex.php?id=1829&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1829" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1731" data-idto="1731" data-node="0" data-bookid="209" for="a1829">تفسير سورة البينة</label>
+
+            <ul id="childrens1829" data-id="1829"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1731&amp;idto=1731" id="HidParam1829">
+
+    <div id="childs1829" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1831">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1831" data-href="nindex.php?id=1831&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1831" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1732" data-idto="1732" data-node="0" data-bookid="209" for="a1831">تفسير سورة إذا زلزلت</label>
+
+            <ul id="childrens1831" data-id="1831"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1732&amp;idto=1732" id="HidParam1831">
+
+    <div id="childs1831" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1833">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1833" data-href="nindex.php?id=1833&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1833" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1733" data-idto="1733" data-node="0" data-bookid="209" for="a1833">تفسير سورة العاديات</label>
+
+            <ul id="childrens1833" data-id="1833"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1733&amp;idto=1733" id="HidParam1833">
+
+    <div id="childs1833" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1835">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1835" data-href="nindex.php?id=1835&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1835" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1734" data-idto="1734" data-node="0" data-bookid="209" for="a1835">تفسير سورة القارعة</label>
+
+            <ul id="childrens1835" data-id="1835"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1734&amp;idto=1734" id="HidParam1835">
+
+    <div id="childs1835" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1837">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1837" data-href="nindex.php?id=1837&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1837" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1735" data-idto="1735" data-node="0" data-bookid="209" for="a1837">تفسير سورة التكاثر</label>
+
+            <ul id="childrens1837" data-id="1837"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1735&amp;idto=1735" id="HidParam1837">
+
+    <div id="childs1837" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1839">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1839" data-href="nindex.php?id=1839&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1839" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1736" data-idto="1736" data-node="0" data-bookid="209" for="a1839">تفسير سورة العصر</label>
+
+            <ul id="childrens1839" data-id="1839"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1736&amp;idto=1736" id="HidParam1839">
+
+    <div id="childs1839" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1841">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1841" data-href="nindex.php?id=1841&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1841" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1737" data-idto="1737" data-node="0" data-bookid="209" for="a1841">تفسير سورة الهمزة</label>
+
+            <ul id="childrens1841" data-id="1841"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1737&amp;idto=1737" id="HidParam1841">
+
+    <div id="childs1841" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1843">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1843" data-href="nindex.php?id=1843&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1843" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1738" data-idto="1738" data-node="0" data-bookid="209" for="a1843">تفسير سورة الفيل</label>
+
+            <ul id="childrens1843" data-id="1843"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1738&amp;idto=1738" id="HidParam1843">
+
+    <div id="childs1843" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1845">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1845" data-href="nindex.php?id=1845&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1845" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1739" data-idto="1739" data-node="0" data-bookid="209" for="a1845">تفسير سورة قريش</label>
+
+            <ul id="childrens1845" data-id="1845"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1739&amp;idto=1739" id="HidParam1845">
+
+    <div id="childs1845" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1847">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1847" data-href="nindex.php?id=1847&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1847" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1740" data-idto="1740" data-node="0" data-bookid="209" for="a1847">تفسير سورة الماعون</label>
+
+            <ul id="childrens1847" data-id="1847"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1740&amp;idto=1740" id="HidParam1847">
+
+    <div id="childs1847" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1849">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1849" data-href="nindex.php?id=1849&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1849" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1741" data-idto="1741" data-node="0" data-bookid="209" for="a1849">تفسير سورة الكوثر</label>
+
+            <ul id="childrens1849" data-id="1849"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1741&amp;idto=1741" id="HidParam1849">
+
+    <div id="childs1849" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1851">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1851" data-href="nindex.php?id=1851&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1851" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1742" data-idto="1742" data-node="0" data-bookid="209" for="a1851">تفسير سورة الكافرون</label>
+
+            <ul id="childrens1851" data-id="1851"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1742&amp;idto=1742" id="HidParam1851">
+
+    <div id="childs1851" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1853">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1853" data-href="nindex.php?id=1853&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1853" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1743" data-idto="1743" data-node="0" data-bookid="209" for="a1853">تفسير سورة النصر</label>
+
+            <ul id="childrens1853" data-id="1853"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1743&amp;idto=1743" id="HidParam1853">
+
+    <div id="childs1853" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1855">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1855" data-href="nindex.php?id=1855&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1855" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1744" data-idto="1744" data-node="0" data-bookid="209" for="a1855">تفسير سورة تبت</label>
+
+            <ul id="childrens1855" data-id="1855"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1744&amp;idto=1744" id="HidParam1855">
+
+    <div id="childs1855" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1857">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1857" data-href="nindex.php?id=1857&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1857" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1745" data-idto="1745" data-node="0" data-bookid="209" for="a1857">تفسير سورة الإخلاص</label>
+
+            <ul id="childrens1857" data-id="1857"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1745&amp;idto=1745" id="HidParam1857">
+
+    <div id="childs1857" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1859">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1859" data-href="nindex.php?id=1859&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1859" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1746" data-idto="1746" data-node="0" data-bookid="209" for="a1859">تفسير سورة الفلق</label>
+
+            <ul id="childrens1859" data-id="1859"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1746&amp;idto=1746" id="HidParam1859">
+
+    <div id="childs1859" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1861">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1861" data-href="nindex.php?id=1861&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1861" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1747" data-idto="1747" data-node="0" data-bookid="209" for="a1861">تفسير سورة الناس</label>
+
+            <ul id="childrens1861" data-id="1861"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1747&amp;idto=1747" id="HidParam1861">
+
+    <div id="childs1861" style="display:none;"></div>
+
+
+
+           <li class="first-level">
+    		<input type="checkbox" id="a1863">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1863" data-href="nindex.php?id=1863&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1863" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1748" data-idto="1762" data-node="0" data-bookid="209" for="a1863">ملحق بفروقات النسخة " ب "</label>
+
+            <ul id="childrens1863" data-id="1863"></ul>
+
+    	  </li>
+
+
+
+    	<input type="hidden" value="&amp;bookid=209&amp;idfrom=1748&amp;idto=1762" id="HidParam1863">
+
+    <div id="childs1863" style="display:none;"></div>
+
+    </ul>
+    <!--</div>-->
+    <input type="hidden" value="" id="selIndexes" name="selIndexes1"><!--
+</div>--><!-- cached old /data/islamweb_cache/ar/library/febe8c7504d4adfc5bdbe90eee26f19e -->
+                                            </div>
+                    <input type="hidden" value="" id="selIndexes" name="selIndexes1">
+                </div>    </div>
+
+    <div class="right-side book-right-nav p-0">
+
+        <div class="portalheader m-0 pb-0">
+            <section class="d-flex justify-content-between align-items-center w-100">
+                <div class="d-inline-flex">
+                    <a style="cursor: pointer;" data-bs-toggle="modal" data-bs-target="#modalInfoBook">
+
+                                            <img src="/ar/library/images/info.svg" alt="معلومات&nbsp;الكتاب" title="معلومات&nbsp;الكتاب">
+                    </a>
+                    <div class="mx-2">
+                        <h3 class="txt-blue">
+                            تفسير السعدي                        </h3>
+
+                        <a target="_blank" href="/ar/library/index.php?page=bookslist&amp;publisher=&amp;author=310">
+                            <h4 class="txt-secondary">
+                                السعدي - عبد الرحمن بن ناصر السعدي                            </h4>
+                        </a>
+                    </div>
+
+                </div>
+                <script>
+function copyShortUrl(element) {
+
+	  var dataUrl = element.getAttribute('data-url');
+	  navigator.clipboard.writeText(dataUrl).then(() => {
+    // Find the sibling feedback element using jQuery
+    var feedback = $("#copystatus");
+
+    if (feedback.length) {
+      // Show feedback text
+      feedback.css('display', 'inline'); // Use jQuery's CSS method
+
+      // Hide feedback after 2 seconds
+      setTimeout(() => {
+        feedback.css('display', 'none'); // Use jQuery's CSS method
+      }, 2000);
+    }
+  }).catch(err => {
+    console.error('Failed to copy text: ', err);
+  });
+
+}
+	                </script>
+               <div class=" d-flex align-items-center justify-content-between mb-3">
+	              <span class="links-shares">
+	                                   <span id="copystatus" class="copy-feedback" style="display: none;">تم نسخ الرابط</span>
+                <a data-url="https://isla.mw/acd1sq" onclick="copyShortUrl(this)" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="17.008" height="16.993" viewBox="0 0 17.008 16.993">
+							<g id="Icon_feather-link" data-name="Icon feather-link" transform="translate(-1.993 -2.008)">
+							  <path id="Path_23747" data-name="Path 23747" d="M15,11.254a3.75,3.75,0,0,0,5.655.405l2.25-2.25a3.75,3.75,0,1,0-5.3-5.3l-1.29,1.283" transform="translate(-6.004)" fill="none" stroke="#012d6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+							  <path id="Path_23748" data-name="Path 23748" d="M12,15a3.75,3.75,0,0,0-5.655-.405l-2.25,2.25a3.75,3.75,0,1,0,5.3,5.3l1.282-1.283" transform="translate(0 -5.242)" fill="none" stroke="#012d6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+							</g>
+						  </svg>
+
+						  </a>
+
+
+                <a class="bookindex-action " style="cursor: pointer;" alt="إخفاء شجرة الكتاب" title="إخفاء شجرة الكتاب">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29.559" height="19.944" viewBox="0 0 29.559 19.944">
+                        <g id="Group_4008" data-name="Group 4008" transform="translate(-38.477 -178.551)">
+                            <path id="menu_book_FILL1_wght200_GRAD0_opsz24" d="M97.565-755.647a.586.586,0,0,1,.112-.328.752.752,0,0,1,.266-.249,11.723,11.723,0,0,1,2.385-.782,12.247,12.247,0,0,1,2.581-.27,11.039,11.039,0,0,1,1.346.078q.635.078,1.309.226a.646.646,0,0,1,.331.2.542.542,0,0,1,.141.381.634.634,0,0,1-.222.54.68.68,0,0,1-.594.077,8.784,8.784,0,0,0-1.118-.152q-.573-.041-1.192-.041a11.824,11.824,0,0,0-2.325.227,12.222,12.222,0,0,0-2.157.637.673.673,0,0,1-.621-.008A.584.584,0,0,1,97.565-755.647Zm0,8.015a.653.653,0,0,1,.112-.342.718.718,0,0,1,.266-.263,9.91,9.91,0,0,1,2.385-.767,13.471,13.471,0,0,1,2.581-.256,11.027,11.027,0,0,1,1.346.078q.635.078,1.309.226a.646.646,0,0,1,.331.2.543.543,0,0,1,.141.381.633.633,0,0,1-.222.54.679.679,0,0,1-.594.077,8.784,8.784,0,0,0-1.118-.152q-.573-.041-1.192-.041a11.009,11.009,0,0,0-2.282.237,11.411,11.411,0,0,0-2.143.675.64.64,0,0,1-.649,0A.651.651,0,0,1,97.565-747.632Zm0-4.007a.653.653,0,0,1,.112-.343.719.719,0,0,1,.266-.263,11.131,11.131,0,0,1,2.385-.767,12.9,12.9,0,0,1,2.581-.256,11.039,11.039,0,0,1,1.346.078q.635.078,1.309.226a.646.646,0,0,1,.331.2.543.543,0,0,1,.141.381.633.633,0,0,1-.222.54.679.679,0,0,1-.594.077,8.762,8.762,0,0,0-1.118-.152q-.573-.041-1.192-.041a10.817,10.817,0,0,0-2.282.242,11.616,11.616,0,0,0-2.143.679.632.632,0,0,1-.649-.009A.662.662,0,0,1,97.565-751.64Zm-2.046,8.365a14.412,14.412,0,0,1,3.625-1.448,15.868,15.868,0,0,1,3.764-.445A15.684,15.684,0,0,1,105.3-745a11.365,11.365,0,0,1,1.872.438.636.636,0,0,0,.625-.043.645.645,0,0,0,.284-.583v-13.324a.763.763,0,0,0-.142-.455,1.094,1.094,0,0,0-.483-.341,12.714,12.714,0,0,0-2.218-.591,14.975,14.975,0,0,0-2.329-.159,13.53,13.53,0,0,0-3.862.571,11.792,11.792,0,0,0-3.527,1.714Zm-.739,1.68a2.227,2.227,0,0,1-.638-.087,3.188,3.188,0,0,1-.556-.223,14.732,14.732,0,0,0-3.357-1.331,14.172,14.172,0,0,0-3.578-.453,13.215,13.215,0,0,0-2.267.193,10.6,10.6,0,0,0-2.167.62,1.484,1.484,0,0,1-1.511-.193A1.661,1.661,0,0,1,80-744.492v-14.285a1.907,1.907,0,0,1,.288-1.018,1.521,1.521,0,0,1,.809-.654,12.115,12.115,0,0,1,2.709-.833,15.708,15.708,0,0,1,2.845-.259,14.537,14.537,0,0,1,4.236.625,15.073,15.073,0,0,1,3.892,1.819,15.073,15.073,0,0,1,3.892-1.819,14.537,14.537,0,0,1,4.236-.625,15.708,15.708,0,0,1,2.845.259,12.115,12.115,0,0,1,2.709.833,1.521,1.521,0,0,1,.809.654,1.907,1.907,0,0,1,.288,1.018v14.285a1.556,1.556,0,0,1-.763,1.393,1.741,1.741,0,0,1-1.624.165,10.641,10.641,0,0,0-2.1-.577,13.108,13.108,0,0,0-2.167-.179,14.172,14.172,0,0,0-3.578.453,14.732,14.732,0,0,0-3.357,1.331,3.188,3.188,0,0,1-.556.223A2.227,2.227,0,0,1,94.779-741.6Z" transform="translate(-41.523 940.09)" fill="#012d6b"></path>
+                        </g>
+                    </svg>
+                </a>
+
+	              </span>
+               </div>
+
+
+            </section>
+            <ol id="topPath" class="mb-0" style="display:none;">
+            <div itemscope="" itemtype="http://schema.org/BreadcrumbList">
+
+            <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/ar/library/content/209/1/تفسير-السعدي">
+
+            <span itemprop="name">
+    تفسير السعدي</span></a>
+
+    <meta itemprop="position" content="1">
+    </li>
+            <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/ar/library/content/209/1/تفسير-سورة-الفاتحة">
+
+            <span itemprop="name">
+    تفسير سورة الفاتحة</span></a>
+
+    <meta itemprop="position" content="2">
+    </li>
+    <div style="display: inline-block;" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="name">تفسير قوله تعالى بسم الله الرحمن الرحيم الحمد لله رب العالمين</span><meta itemprop="position" content="3"></div><!-- cached old /data/islamweb_cache/ar/library/39552d50b86a80ea867bb62fe4cd1ba1 -->            </div></ol>
+        </div>
+
+
+
+        <div>
+            <input type="hidden" id="mobileAccess" value="0">
+
+            <style>
+                .hadith a {
+                    display: contents !important;
+                }
+
+                .bookcontent {
+                    text-align: justify !important;
+                }
+
+                .fancybox-content {
+                    /*width: 80% !important;*/
+                    /*height: calc(90% - 88px) !important;*/
+                }
+
+                .fancybox-iframe {
+                    direction: rtl;
+                }
+
+
+                .viewmodebuttonclass {
+                    display: inline-block;
+                    direction: ltr;
+                    position: absolute;
+
+                    padding-right: 100px;
+
+
+                    /*top: 32%;right: 50%;*/
+                    width: 45%;
+                    left: 27%;
+                    padding-top: 18px;
+                    padding-top: 30px;
+                    font-weight: bold;
+                    zoom: 0.8;
+                }
+/*
+                .footnotecontent {
+                    max-height: 350px;
+                    overflow-y: scroll;
+                }
+
+                #quran-ajax-content {
+                    max-height: 350px;
+                    overflow-y: scroll;
+                }
+
+                #names-ajax-content {
+                    max-height: 350px;
+                    overflow-y: scroll;
+                }
+*/
+
+                #shareeh-ajax-content {
+                    max-height: 350px;
+                    overflow-y: scroll;
+                }
+
+                .booktopsdata {
+                    margin-top: 5px;
+                }
+
+                /*
+                #subjnames-ajax-content {
+                max-height: 300px;
+                overflow-y: scroll;
+                }
+
+                #hadith-ajax-content {
+                max-height: 300px;
+                overflow-y: scroll;
+                }
+                */
+
+                .taskeelbuttonclass {
+                    display: none;
+                }
+            </style>
+
+
+
+
+
+            <script>
+                function libraryGoogleTag() {
+                    gtag('event', 'Library',{'event_label': '209','event_category':'LIBRARY - '});
+                }
+
+
+            </script>
+
+
+
+
+                <div class="booktitle firstbooktitle d-flex justify-content-between align-items-center">
+
+
+                    <div class=" booktopsdata ">
+
+
+
+                                                <span class="part partdropmenu">
+                            جزء
+                            <span class="dropdown btn-group">
+                                <a class="dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    1                                </a>
+
+                                <ul class="dropdown-menu">
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(1)">1</a></li>
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(2)">2</a></li>
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(3)">3</a></li>
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(4)">4</a></li>
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(5)">5</a></li>
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(6)">6</a></li>
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(7)">7</a></li>
+                                                                        <li><a style="cursor: pointer;" class="dropdown-item" onclick="javascript: jumpPart(8)">8</a></li>
+                                                                    </ul>
+                            </span>
+                        </span>
+
+                        <span style="padding-right: 25px;" class="page ">
+
+                        صفحة
+
+
+                                                        <span>
+                                <span class="dropdown" style="width: 58px;">
+                                    <a onclick="javascript: generateListItems();" class="dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        31                                    </a>
+
+
+                                    <ul id="dropdown-menu" class="dropdown-menu" style="overflow:hidden; overflow-y:scroll;height:150px;">
+
+                                                                            </ul>
+                                </span>
+
+                            </span>
+
+                                                    <a class="topnextbutton" href="/ar/library/content/209/2/تفسير-قوله-تعالى-الم-ذلك-الكتاب-لا-ريب-فيه">
+                                <img src="/contentver3/img/ico-nextbook.svg">
+                            </a>
+
+                        </span>
+
+
+
+                    </div>
+
+
+
+                    <input type="hidden" id="txtTaskeel" style="display:none;" value="2">
+
+                    <script>
+                    //alert('txtTaskeel:' + $('#txtTaskeel').val()) ;
+                    </script>
+
+                    <div>
+
+
+                    <a id="txtTaskeelButton" style="cursor: pointer;" onclick="
+                        if($('#txtTaskeel').val()==2)
+                        {
+                           // alert(1);
+                            $('#txtTaskeel').val(2);
+                            $('.notaskeel').css('display','none');
+                            $('#pagebody').css('display','none');
+                            $('.taskeel').css('display','');
+                            $('#pagebody_thaskeel').css('display','');
+                        }
+                        else
+                        {
+                           // alert(2);
+                            $('#txtTaskeel').val(1);
+                            $('#pagebody_thaskeel').css('display','none');
+                            $('.taskeel').css('display','none');
+                            $('.notaskeel').css('display','');
+                            $('#pagebody').css('display','');
+                        }">
+                        <img alt="إظهار / إخفاء التشكيل" title="إظهار / إخفاء التشكيل" src="/contentver3/img/ico-tshkel.svg">
+
+                    </a>
+
+                    <a href="/ar/library/index.php?page=websearch&amp;bk_no=209">
+                        <img alt="بحث في الكتاب" title="بحث في الكتاب" src="/contentver3/img/search-book.svg">
+                    </a>
+                    </div>
+
+                </div>
+
+                <!------------------------------------------------------------------>
+
+                <div itemscope="" itemtype="http://schema.org/Article"><!--IF: 2 ////*****2////--><!--IF: 2 ////*****2////--><label style="display:none;" itemprop="datePublished">2019</label><meta itemprop="author" content="السعدي - عبد الرحمن بن ناصر السعدي"><div style="display:none;" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+
+					 	<meta itemprop="url" content="/content/img/logo.png">
+					 	<meta itemprop="width" content="365">
+					 	<meta itemprop="height" content="58">
+    					</div><meta itemprop="name" content="دار ابن الجوزي"></div><meta itemprop="image" content="/ar/library/books/209.jpg"><input type="hidden" value="1" name="currentpage" id="currentpage">
+ <input type="hidden" value="1" name="defaultrow" id="defaultrow">
+ <input type="hidden" value="1" name="currenthashiya" id="currenthashiya">
+<div class="bookcontent-dic" id="pagebody" itemprop="articleBody">   <!--1-->
+		<span class="hashiya_title"></span> <font>[ <font color="blue">ص:</font> 31 ] </font>تفسير الفاتحة <br><br>
+وهي مكية <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28723_28971_29693_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=1\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=1</span>بسم الله الرحمن الرحيم </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=33133_33144_33147_34513_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>الحمد لله رب العالمين </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28723_29693_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=3\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=3</span>الرحمن الرحيم </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28723_29687_30179_30291_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=4\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=4</span>مالك يوم الدين </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28662_28680_30513_33179_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إياك نعبد وإياك نستعين </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=32050_32063_33179_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهدنا الصراط المستقيم </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=31948_32000_32416_32429_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين </span></a> </span>&nbsp;<br><br>
+(1) أي: أبتدئ بكل اسم لله تعالى؛ لأن لفظ (اسم) مفرد مضاف، فيعم جميع الأسماء الحسنى . <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=1\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=1</span>الله </span></a> هو المألوه المعبود، المستحق لإفراده بالعبادة، لما اتصف به من صفات الألوهية وهي صفات الكمال. <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=1\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=1</span>الرحمن الرحيم </span></a>  : اسمان دالان على أنه تعالى ذو الرحمة الواسعة العظيمة التي وسعت كل شيء، وعمت كل حي، وكتبها للمتقين المتبعين لأنبيائه ورسله. فهؤلاء لهم الرحمة المطلقة، ومن عداهم لهم نصيب منها. <br><br>
+واعلم أن من القواعد المتفق عليها بين سلف الأمة وأئمتها، <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=29443</span>الإيمان بأسماء الله وصفاته، وأحكام الصفات. </span>&nbsp;<br><br>
+فيؤمنون مثلا بأنه رحمن رحيم، ذو الرحمة التي اتصف بها، المتعلقة بالمرحوم. فالنعم كلها، أثر من آثار رحمته، وهكذا في سائر الأسماء. يقال في العليم: إنه عليم ذو علم، يعلم به كل شيء، قدير، ذو قدرة يقدر على كل شيء. <br><br>
+(2) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>الحمد لله </span></a> هو : <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=33144_33147</span>الثناء على الله بصفات الكمال </span>&nbsp;، وبأفعاله الدائرة بين الفضل والعدل، فله الحمد الكامل، بجميع الوجوه. <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>رب العالمين </span></a> <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28658</span>الرب: هو المربي جميع العالمين -وهم من سوى الله- بخلقه إياهم </span>&nbsp;، وإعداده لهم الآلات،  <font>[ <font color="blue">ص:</font> 32 ] </font>وإنعامه عليهم النعم العظيمة، التي لو فقدوها، لم يمكن لهم البقاء. فما بهم من نعمة، فمنه تعالى. <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=29485_28658</span>وتربيته تعالى لخلقه نوعان: عامة وخاصة </span>&nbsp; . <br><br>
+فالعامة: هي خلقه للمخلوقين، ورزقهم، وهدايتهم لما فيه مصالحهم، التي فيها بقاؤهم في الدنيا. والخاصة: تربيته لأوليائه، فيربيهم بالإيمان، ويوفقهم له، ويكمله لهم، ويدفع عنهم الصوارف والعوائق الحائلة بينهم وبينه، وحقيقتها: تربية التوفيق لكل خير، والعصمة عن كل شر. ولعل هذا المعنى هو السر في كون أكثر أدعية الأنبياء بلفظ الرب، فإن مطالبهم كلها داخلة تحت ربوبيته الخاصة. <br><br>
+فدل قوله <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>رب العالمين </span></a> على <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28658</span>انفراده بالخلق والتدبير، والنعم، وكمال غناه، وتمام فقر العالمين إليه </span>&nbsp;، بكل وجه واعتبار. <br><br>
+(4) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=4\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=4</span>مالك يوم الدين </span></a> المالك: هو من اتصف بصفة الملك التي من آثارها أنه يأمر وينهى، ويثيب ويعاقب، ويتصرف بمماليكه بجميع أنواع التصرفات، وأضاف الملك ليوم الدين، وهو <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30291_30296_28766</span>يوم القيامة، يوم يدان الناس فيه بأعمالهم، خيرها وشرها </span>&nbsp;، لأن في ذلك اليوم، يظهر للخلق تمام الظهور، كمال ملكه وعدله وحكمته، وانقطاع أملاك الخلائق. حتى إنه يستوي في ذلك اليوم، الملوك والرعايا والعبيد والأحرار، كلهم مذعنون لعظمته، خاضعون لعزته، منتظرون لمجازاته، راجون ثوابه، خائفون من عقابه، فلذلك خصه بالذكر، وإلا فهو المالك ليوم الدين ولغيره من الأيام. <br><br>
+(5) وقوله <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إياك نعبد وإياك نستعين </span></a> أي: نخصك وحدك بالعبادة. <br><br>
+والاستعانة، لأن تقديم المعمول يفيد الحصر، وهو إثبات الحكم للمذكور، ونفيه عما عداه. فكأنه يقول: نعبدك، ولا نعبد غيرك، ونستعين بك، ولا نستعين بغيرك. <br><br>
+وقدم العبادة على الاستعانة، من باب تقديم العام على الخاص، واهتماما بتقديم حقه تعالى على حق عبده.<br><br>
+و (العبادة) اسم جامع لكل ما يحبه الله ويرضاه من الأعمال والأقوال الظاهرة  <font>[ <font color="blue">ص:</font> 33 ] </font>والباطنة. و (الاستعانة) هي الاعتماد على الله تعالى في جلب المنافع، ودفع المضار، مع الثقة به في تحصيل ذلك. <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28680</span>والقيام بعبادة الله والاستعانة به هو الوسيلة للسعادة الأبدية، والنجاة من جميع الشرور، </span>&nbsp;فلا سبيل إلى النجاة إلا بالقيام بهما. وإنما تكون العبادة عبادة، إذا كانت مأخوذة عن رسول الله صلى الله عليه وسلم مقصودا بها وجه الله، فبهذين الأمرين تكون عبادة، وذكر (الاستعانة) بعد (العبادة) مع دخولها فيها، لاحتياج العبد في جميع عباداته إلى الاستعانة بالله تعالى. فإنه إن لم يعنه الله، لم يحصل له ما يريده من فعل الأوامر، واجتناب النواهي. <br><br>
+ثم قال تعالى: <br><br>
+(6) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهدنا الصراط المستقيم </span></a> أي: دلنا وأرشدنا، ووفقنا للصراط المستقيم، وهو الطريق الواضح الموصل إلى الله، وإلى جنته، وهو معرفة الحق والعمل به، فاهدنا إلى الصراط واهدنا في الصراط. <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=32050</span>فالهداية إلى الصراط: لزوم دين الإسلام، وترك ما سواه من الأديان </span>&nbsp;، والهداية في الصراط، تشمل الهداية لجميع التفاصيل الدينية علما وعملا. فهذا الدعاء من أجمع الأدعية وأنفعها للعبد ولهذا وجب على الإنسان أن يدعو الله به في كل ركعة من صلاته، لضرورته إلى ذلك. وهذا الصراط المستقيم هو: <br><br>
+(7) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>صراط الذين أنعمت عليهم </span></a> من النبيين والصديقين والشهداء والصالحين. <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>غير </span></a> صراط <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>المغضوب عليهم </span></a> الذين عرفوا الحق وتركوه كاليهود ونحوهم. وغير صراط <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>الضالين </span></a> الذين تركوا الحق على جهل وضلال، كالنصارى ونحوهم. <br><br>
+فهذه السورة على إيجازها، قد احتوت على ما لم تحتو عليه سورة من سور القرآن، فتضمنت أنواع التوحيد الثلاثة: <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28658</span>توحيد الربوبية </span>&nbsp;يؤخذ من قوله: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>رب العالمين </span></a> ، <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28663</span>وتوحيد الإلهية وهو إفراد الله بالعبادة، </span>&nbsp;يؤخذ من لفظ: " الله " ومن قوله: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إياك نعبد </span></a> ، <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28724</span>وتوحيد الأسماء والصفات، وهو إثبات صفات الكمال لله تعالى، التي أثبتها لنفسه، وأثبتها له رسوله من غير تعطيل ولا تمثيل ولا تشبيه، </span>&nbsp;وقد دل على ذلك لفظ <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>الحمد </span></a> كما تقدم.  <font>[ <font color="blue">ص:</font> 34 ] </font><br><br>
+وتضمنت إثبات النبوة في قوله: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهدنا الصراط المستقيم </span></a> لأن ذلك ممتنع بدون الرسالة. <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30531</span>وإثبات الجزاء على الأعمال </span>&nbsp;في قوله: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=4\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=4</span>مالك يوم الدين </span></a> وأن <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30531</span>الجزاء يكون بالعدل، </span>&nbsp;لأن الدين معناه الجزاء بالعدل. <br><br>
+وتضمنت <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30451</span>إثبات القدر، </span>&nbsp;وأن العبد فاعل حقيقة، خلافا <span>للقدرية  </span><span>والجبرية.  </span>بل تضمنت الرد على جميع أهل البدع والضلال في قوله: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهدنا الصراط المستقيم </span></a> لأنه معرفة الحق والعمل به. وكل مبتدع وضال فهو مخالف لذلك. <br><br>
+وتضمنت <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=19696_28680</span>إخلاص الدين لله تعالى، عبادة واستعانة </span>&nbsp;في قوله: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إياك نعبد وإياك نستعين </span></a>  . فالحمد لله رب العالمين. <br><br></div>
+<div class="bookcontent-dic" id="pagebody_thaskeel" style="display:none">   <!--1-->
+		<span class="hashiya_title"></span> <font>[ <font color="blue">ص:</font> 31 ] </font>تَفْسِيرُ الْفَاتِحَةِ <br><br>
+وَهِيَ مَكِّيَّةٌ <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28723_28971_29693_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=1\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=1</span>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=33133_33144_33147_34513_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28723_29693_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=3\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=3</span>الرَّحْمَنِ الرَّحِيمِ </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28723_29687_30179_30291_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=4\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=4</span>مَالِكِ يَوْمِ الدِّينِ </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28662_28680_30513_33179_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=32050_32063_33179_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ </span></a> </span>&nbsp;<span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=31948_32000_32416_32429_28972</span><a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلا الضَّالِّينَ </span></a> </span>&nbsp;<br><br>
+(1) أَيْ: أَبْتَدِئُ بِكُلِّ اسْمٍ لِلَّهِ تَعَالَى؛ لِأَنَّ لَفْظَ (اسْمٍ) مُفْرَدٌ مُضَافٌ، فَيَعُمُّ جَمِيعَ الْأَسْمَاءِ الْحُسْنَى . <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=1\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=1</span>اللَّهِ </span></a> هُوَ الْمَأْلُوهُ الْمَعْبُودُ، الْمُسْتَحِقُّ لِإِفْرَادِهِ بِالْعِبَادَةِ، لِمَا اتَّصَفَ بِهِ مِنْ صِفَاتِ الْأُلُوهِيَّةِ وَهِيَ صِفَاتُ الْكَمَالِ. <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=1\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=1</span>الرَّحْمَنِ الرَّحِيمِ </span></a>  : اسْمَانِ دَالَّانِ عَلَى أَنَّهُ تَعَالَى ذُو الرَّحْمَةِ الْوَاسِعَةِ الْعَظِيمَةِ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ، وَعَمَّتْ كُلَّ حَيٍّ، وَكَتَبَهَا لِلْمُتَّقِينَ الْمُتَّبِعِينَ لِأَنْبِيَائِهِ وَرُسُلِهِ. فَهَؤُلَاءِ لَهُمُ الرَّحْمَةُ الْمُطْلَقَةُ، وَمَنْ عَدَاهُمْ لَهُمْ نَصِيبٌ مِنْهَا. <br><br>
+وَاعْلَمْ أَنَّ مِنَ الْقَوَاعِدِ الْمُتَّفَقِ عَلَيْهَا بَيْنَ سَلَفِ الْأُمَّةِ وَأَئِمَّتِهَا، <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=29443</span>الْإِيمَانُ بِأَسْمَاءِ اللَّهِ وَصِفَاتِهِ، وَأَحْكَامِ الصِّفَاتِ. </span>&nbsp;<br><br>
+فَيُؤْمِنُونَ مَثَلًا بِأَنَّهُ رَحْمَنٌ رَحِيمٌ، ذُو الرَّحْمَةِ الَّتِي اتَّصَفَ بِهَا، الْمُتَعَلِّقَةِ بِالْمَرْحُومِ. فَالنِّعَمُ كُلُّهَا، أَثَرٌ مِنْ آثَارِ رَحْمَتِهِ، وَهَكَذَا فِي سَائِرِ الْأَسْمَاءِ. يُقَالُ فِي الْعَلِيمِ: إِنَّهُ عَلِيمٌ ذُو عِلْمٍ، يَعْلَمُ بِهِ كُلَّ شَيْءٍ، قَدِيرٌ، ذُو قُدْرَةٍ يَقْدِرُ عَلَى كُلِّ شَيْءٍ. <br><br>
+(2) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>الْحَمْدُ لِلَّهِ </span></a> هُوَ : <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=33144_33147</span>الثَّنَاءُ عَلَى اللَّهِ بِصِفَاتِ الْكَمَالِ </span>&nbsp;، وَبِأَفْعَالِهِ الدَّائِرَةِ بَيْنَ الْفَضْلِ وَالْعَدْلِ، فَلَهُ الْحَمْدُ الْكَامِلُ، بِجَمِيعِ الْوُجُوهِ. <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>رَبِّ الْعَالَمِينَ </span></a> <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28658</span>الرَّبُّ: هُوَ الْمُرَبِّي جَمِيعَ الْعَالَمِينَ -وَهُمْ مَنْ سِوَى اللَّهِ- بِخَلْقِهِ إِيَّاهُمْ </span>&nbsp;، وَإِعْدَادِهِ لَهُمُ الْآلَاتِ،  <font>[ <font color="blue">ص:</font> 32 ] </font>وَإِنْعَامِهِ عَلَيْهِمُ النِّعَمَ الْعَظِيمَةَ، الَّتِي لَوْ فَقَدُوهَا، لَمْ يُمْكِنْ لَهُمُ الْبَقَاءُ. فَمَا بِهِمْ مِنْ نِعْمَةٍ، فَمِنْهُ تَعَالَى. <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=29485_28658</span>وَتَرْبِيَتُهُ تَعَالَى لِخَلْقِهِ نَوْعَانِ: عَامَّةٌ وَخَاصَّةٌ </span>&nbsp; . <br><br>
+فَالْعَامَّةُ: هِيَ خَلْقُهُ لِلْمَخْلُوقِينَ، وَرِزْقُهُمْ، وَهِدَايَتُهُمْ لِمَا فِيهِ مَصَالِحُهُمُ، الَّتِي فِيهَا بَقَاؤُهُمْ فِي الدُّنْيَا. وَالْخَاصَّةُ: تَرْبِيَتُهُ لِأَوْلِيَائِهِ، فَيُرَبِّيهِمْ بِالْإِيمَانِ، وَيُوَفِّقُهُمْ لَهُ، وَيُكْمِلُهُ لَهُمْ، وَيَدْفَعُ عَنْهُمُ الصَّوَارِفَ وَالْعَوَائِقَ الْحَائِلَةَ بَيْنَهُمْ وَبَيْنَهُ، وَحَقِيقَتُهَا: تَرْبِيَةُ التَّوْفِيقِ لِكُلِّ خَيْرٍ، وَالْعِصْمَةُ عَنْ كُلِّ شَرٍّ. وَلَعَلَّ هَذَا الْمَعْنَى هُوَ السِّرُّ فِي كَوْنِ أَكْثَرِ أَدْعِيَةِ الْأَنْبِيَاءِ بِلَفْظِ الرَّبِّ، فَإِنَّ مَطَالِبَهُمْ كُلَّهَا دَاخِلَةٌ تَحْتَ رُبُوبِيَّتِهِ الْخَاصَّةِ. <br><br>
+فَدَلَّ قَوْلُهُ <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>رَبِّ الْعَالَمِينَ </span></a> عَلَى <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28658</span>انْفِرَادِهِ بِالْخَلْقِ وَالتَّدْبِيرِ، وَالنِّعَمِ، وَكَمَالِ غِنَاهُ، وَتَمَامِ فَقْرِ الْعَالَمِينَ إِلَيْهِ </span>&nbsp;، بِكُلِّ وَجْهٍ وَاعْتِبَارٍ. <br><br>
+(4) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=4\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=4</span>مَالِكِ يَوْمِ الدِّينِ </span></a> الْمَالِكُ: هُوَ مَنِ اتَّصَفَ بِصِفَةِ الْمَلِكِ الَّتِي مِنْ آثَارِهَا أَنَّهُ يَأْمُرُ وَيَنْهَى، وَيُثِيبُ وَيُعَاقِبُ، وَيَتَصَرَّفُ بِمَمَالِيكِهِ بِجَمِيعِ أَنْوَاعِ التَّصَرُّفَاتِ، وَأَضَافَ الْمُلْكَ لِيَوْمِ الدِّينِ، وَهُوَ <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30291_30296_28766</span>يَوْمُ الْقِيَامَةِ، يَوْمٌ يُدَانُ النَّاسُ فِيهِ بِأَعْمَالِهِمْ، خَيْرِهَا وَشَرِّهَا </span>&nbsp;، لِأَنَّ فِي ذَلِكَ الْيَوْمِ، يَظْهَرُ لِلْخَلْقِ تَمَامَ الظُّهُورِ، كَمَالُ مُلْكِهِ وَعَدْلِهِ وَحِكْمَتِهِ، وَانْقِطَاعُ أَمْلَاكِ الْخَلَائِقِ. حَتَّى إِنَّهُ يَسْتَوِي فِي ذَلِكَ الْيَوْمِ، الْمُلُوكُ وَالرَّعَايَا وَالْعَبِيدُ وَالْأَحْرَارُ، كُلُّهُمْ مُذْعِنُونَ لِعَظَمَتِهِ، خَاضِعُونَ لِعِزَّتِهِ، مُنْتَظِرُونَ لِمُجَازَاتِهِ، رَاجُونَ ثَوَابَهُ، خَائِفُونَ مِنْ عِقَابِهِ، فَلِذَلِكَ خَصَّهُ بِالذِّكْرِ، وَإِلَّا فَهُوَ الْمَالِكُ لِيَوْمِ الدِّينِ وَلِغَيْرِهِ مِنَ الْأَيَّامِ. <br><br>
+(5) وَقَوْلُهُ <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ </span></a> أَيْ: نَخُصُّكَ وَحْدَكَ بِالْعِبَادَةِ. <br><br>
+وَالِاسْتِعَانَةُ، لِأَنَّ تَقْدِيمَ الْمَعْمُولِ يُفِيدُ الْحَصْرَ، وَهُوَ إِثْبَاتُ الْحُكْمِ لِلْمَذْكُورِ، وَنَفْيُهُ عَمَّا عَدَاهُ. فَكَأَنَّهُ يَقُولُ: نَعْبُدُكَ، وَلَا نَعْبُدُ غَيْرَكَ، وَنَسْتَعِينُ بِكَ، وَلَا نَسْتَعِينُ بِغَيْرِكَ. <br><br>
+وَقَدَّمَ الْعِبَادَةَ عَلَى الِاسْتِعَانَةِ، مِنْ بَابِ تَقْدِيمِ الْعَامِّ عَلَى الْخَاصِّ، وَاهْتِمَامًا بِتَقْدِيمِ حَقِّهِ تَعَالَى عَلَى حَقِّ عَبْدِهِ.<br><br>
+وَ (الْعِبَادَةُ) اسْمٌ جَامِعٌ لِكُلِّ مَا يُحِبُّهُ اللَّهُ وَيَرْضَاهُ مِنَ الْأَعْمَالِ وَالْأَقْوَالِ الظَّاهِرَةِ  <font>[ <font color="blue">ص:</font> 33 ] </font>وَالْبَاطِنَةِ. وَ (الِاسْتِعَانَةُ) هِيَ الِاعْتِمَادُ عَلَى اللَّهِ تَعَالَى فِي جَلْبِ الْمَنَافِعِ، وَدَفْعِ الْمَضَارِّ، مَعَ الثِّقَةِ بِهِ فِي تَحْصِيلِ ذَلِكَ. <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28680</span>وَالْقِيَامُ بِعِبَادَةِ اللَّهِ وَالِاسْتِعَانَةُ بِهِ هُوَ الْوَسِيلَةُ لِلسَّعَادَةِ الْأَبَدِيَّةِ، وَالنَّجَاةُ مِنْ جَمِيعِ الشُّرُورِ، </span>&nbsp;فَلَا سَبِيلَ إِلَى النَّجَاةِ إِلَّا بِالْقِيَامِ بِهِمَا. وَإِنَّمَا تَكُونُ الْعِبَادَةُ عِبَادَةً، إِذَا كَانَتْ مَأْخُوذَةً عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَقْصُودًا بِهَا وَجْهَ اللَّهِ، فَبِهَذَيْنَ الْأَمْرَيْنِ تَكُونُ عِبَادَةً، وَذَكَرَ (الِاسْتِعَانَةَ) بَعْدَ (الْعِبَادَةِ) مَعَ دُخُولِهَا فِيهَا، لِاحْتِيَاجِ الْعَبْدِ فِي جَمِيعِ عِبَادَاتِهِ إِلَى الِاسْتِعَانَةِ بِاللَّهِ تَعَالَى. فَإِنَّهُ إِنْ لَمْ يُعِنْهُ اللَّهُ، لَمْ يَحْصُلْ لَهُ مَا يُرِيدُهُ مِنْ فِعْلِ الْأَوَامِرِ، وَاجْتِنَابِ النَّوَاهِي. <br><br>
+ثُمَّ قَالَ تَعَالَى: <br><br>
+(6) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ </span></a> أَيْ: دُلَّنَا وَأَرْشِدَنَا، وَوَفِّقَنَا لِلصِّرَاطِ الْمُسْتَقِيمِ، وَهُوَ الطَّرِيقُ الْوَاضِحُ الْمُوصِلُ إِلَى اللَّهِ، وَإِلَى جَنَّتِهِ، وَهُوَ مَعْرِفَةُ الْحَقِّ وَالْعَمَلِ بِهِ، فَاهْدِنَا إِلَى الصِّرَاطِ وَاهْدِنَا فِي الصِّرَاطِ. <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=32050</span>فَالْهِدَايَةُ إِلَى الصِّرَاطِ: لُزُومُ دِينِ الْإِسْلَامِ، وَتَرْكُ مَا سِوَاهُ مِنَ الْأَدْيَانِ </span>&nbsp;، وَالْهِدَايَةُ فِي الصِّرَاطِ، تَشْمَلُ الْهِدَايَةَ لِجَمِيعِ التَّفَاصِيلِ الدِّينِيَّةِ عِلْمًا وَعَمَلًا. فَهَذَا الدُّعَاءُ مِنْ أَجْمَعِ الْأَدْعِيَةِ وَأَنْفَعِهَا لِلْعَبْدِ وَلِهَذَا وَجَبَ عَلَى الْإِنْسَانِ أَنْ يَدْعُوَ اللَّهَ بِهِ فِي كُلِّ رَكْعَةٍ مِنْ صَلَاتِهِ، لِضَرُورَتِهِ إِلَى ذَلِكَ. وَهَذَا الصِّرَاطُ الْمُسْتَقِيمُ هُوَ: <br><br>
+(7) <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ </span></a> مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ. <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>غَيْرِ </span></a> صِرَاطِ <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>الْمَغْضُوبِ عَلَيْهِمْ </span></a> الَّذِينَ عَرَفُوا الْحَقَّ وَتَرَكُوهُ كَالْيَهُودِ وَنَحْوَهُمْ. وَغَيْرِ صِرَاطِ <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=7\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=7</span>الضَّالِّينَ </span></a> الَّذِينَ تَرَكُوا الْحَقَّ عَلَى جَهْلٍ وَضَلَالٍ، كَالنَّصَارَى وَنَحْوِهِمْ. <br><br>
+فَهَذِهِ السُّورَةُ عَلَى إِيجَازِهَا، قَدِ احْتَوَتْ عَلَى مَا لَمْ تَحْتَوِ عَلَيْهِ سُورَةٌ مِنْ سُوَرِ الْقُرْآنِ، فَتَضَمَّنَتْ أَنْوَاعَ التَّوْحِيدِ الثَّلَاثَةَ: <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28658</span>تَوْحِيدِ الرُّبُوبِيَّةِ </span>&nbsp;يُؤْخَذُ مِنْ قَوْلِهِ: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>رَبِّ الْعَالَمِينَ </span></a> ، <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28663</span>وَتَوْحِيدِ الْإِلَهِيَّةِ وَهُوَ إِفْرَادُ اللَّهِ بِالْعِبَادَةِ، </span>&nbsp;يُؤْخَذُ مِنْ لَفْظِ: " اللَّهِ " وَمِنْ قَوْلِهِ: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إِيَّاكَ نَعْبُدُ </span></a> ، <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=28724</span>وَتَوْحِيدِ الْأَسْمَاءِ وَالصِّفَاتِ، وَهُوَ إِثْبَاتُ صِفَاتِ الْكَمَالِ لِلَّهِ تَعَالَى، الَّتِي أَثْبَتَهَا لِنَفْسِهِ، وَأَثْبَتَهَا لَهُ رَسُولُهُ مِنْ غَيْرِ تَعْطِيلٍ وَلَا تَمْثِيلٍ وَلَا تَشْبِيهٍ، </span>&nbsp;وَقَدْ دَلَّ عَلَى ذَلِكَ لَفْظُ <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=2\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=2</span>الْحَمْدُ </span></a> كَمَا تَقَدَّمَ.  <font>[ <font color="blue">ص:</font> 34 ] </font><br><br>
+وَتَضَمَّنَتْ إِثْبَاتَ النُّبُوَّةِ فِي قَوْلِهِ: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ </span></a> لِأَنَّ ذَلِكَ مُمْتَنِعٌ بِدُونِ الرِّسَالَةِ. <br><br><span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30531</span>وَإِثْبَاتَ الْجَزَاءِ عَلَى الْأَعْمَالِ </span>&nbsp;فِي قَوْلِهِ: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=4\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=4</span>مَالِكِ يَوْمِ الدِّينِ </span></a> وَأَنَّ <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30531</span>الْجَزَاءَ يَكُونُ بِالْعَدْلِ، </span>&nbsp;لِأَنَّ الدِّينَ مَعْنَاهُ الْجَزَاءُ بِالْعَدْلِ. <br><br>
+وَتَضَمَّنَتْ <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=30451</span>إِثْبَاتَ الْقَدَرِ، </span>&nbsp;وَأَنَّ الْعَبْدَ فَاعِلٌ حَقِيقَةً، خِلَافًا <span>لِلْقَدَرِيَّةِ  </span><span>وَالْجَبْرِيَّةِ.  </span>بَلْ تَضَمَّنَتِ الرَّدَّ عَلَى جَمِيعِ أَهْلِ الْبِدَعِ وَالضَّلَالِ فِي قَوْلِهِ: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=6\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=6</span>اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ </span></a> لِأَنَّهُ مَعْرِفَةُ الْحَقِّ وَالْعَمَلُ بِهِ. وَكُلُّ مُبْتَدِعٌ وَضَالٌّ فَهُوَ مُخَالِفٌ لِذَلِكَ. <br><br>
+وَتَضَمَّنَتْ <span class="mainsubj" style="color: red; cursor: pointer;"><span class="mainsubjatt" style="display:none">nindex.php?page=treesubj&amp;link=19696_28680</span>إِخْلَاصَ الدِّينِ لِلَّهِ تَعَالَى، عِبَادَةً وَاسْتِعَانَةً </span>&nbsp;فِي قَوْلِهِ: <a style="text-decoration: none;" href="#docu" onclick="Tip('&lt;IFRAME src=\'/ar/library/ayatafseer.php?surano=1&amp;ayano=5\' border=0 frameborder=0 WIDTH=280 HEIGHT=165&gt;&lt;/IFRAME&gt;', WIDTH, 280, TITLE, 'تفسير الآية', SHADOW, false, FADEIN, 600, FADEOUT, 600, STICKY, 1, CLOSEBTN, true, CLICKCLOSE, true)" onmouseout="UnTip()"><span class="quran" style="color: blue; cursor: pointer;"><span class="quranatt" style="display:none">nindex.php?page=tafseer&amp;surano=1&amp;ayano=5</span>إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ </span></a>  . فَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ. <br><br></div>
+
+<h1 class="booktitle">
+	<div class="floatr">
+
+		<!--<i class="fa fa-info"></i>
+		<i class="fa fa-share-alt"></i>
+        var href = $('.cssbuttongo').attr('href'); window.location.href = $('.cssbuttongo').attr('href');
+        -->
+	</div>
+	<div class="floatl">
+		<span class="page floatl">
+			<u onclick="javascript: if($('.topnextbutton').length) { console.log('topnextbutton clicked'); window.location.href = $('.topnextbutton').attr('href'); /*$('.topnextbutton').click();*/ } else $('.nextpage').click();" class="ul floatl " style="cursor:pointer;" data-url="/ar/library/maktaba/nindex.php?flag=1&amp;page=bookpages&amp;bookid=209&amp;id=2&amp;bookparts=[35:1]&amp;LoadTab=LoadBookDetail">التالي <i class="fa fa-chevron-left"></i></u>
+
+			<u onclick="javascript: if($('.topprevbutton').length) { console.log('topprevbutton clicked'); window.location.href = $('.topprevbutton').attr('href'); /*$('.topprevbutton').click();*/ } else $('.prvpage').click();" class="ur floatl " style="cursor:pointer;" data-url=""><i class="fa fa-chevron-right"></i> السابق</u>
+		</span>
+	</div>
+</h1>
+
+
+		  <input name="counttafseer" type="hidden" value="0">
+
+
+
+
+<div class="downtab_start"></div> <!-- bookmark for scroll -->
+<div id="downtab" style="display:none;width:100%;text-align:right;float:right;color:#5F98BC">
+
+<ul id="nav">
+	<li id="labelmainsubj"><a href="#N" class="current">عناوين الشجرة</a></li><li id="labelquran"><a href="#Q">تفسير الآية</a></li><li id="labelnames"><a href="#N">ترجمة العلم</a></li><input type="hidden" id="selectedtab" name="selectedtab" value="labelmainsubj">
+
+</ul>
+
+<div id="ajax-content"><img src="images/loading.gif"></div>
+</div>
+
+
+
+
+<div id="navtxt" class="navtext" style="position:absolute; top:-100px; left:0px; visibility:hidden"></div>
+
+<input type="hidden" id="totalcount" name="totalcount" value="">
+
+<input type="hidden" id="idfrom" name="idfrom" value="1">
+<input type="hidden" id="idto" name="idto" value="1762">
+<input type="hidden" id="flag" name="flag" value="">
+
+<script>
+$('#tabs h1').click(function() {
+    var tab = $('.tab_' + $(this).attr('tab'));
+    if (tab.length) {
+        // Hide active tab & selected style:
+        $('#tab_container .tab_active').removeClass('tab_active');
+        $('#tabs .active').removeClass('active');
+
+        // Show clicked tab content
+        tab.addClass('tab_active');
+        $(this).addClass('active');
+
+        tab.show("slide", {
+            direction: "down"
+        }, 1000);
+        $(this).show("puff", {}, 10);
+    }
+});
+
+
+$(document).ready(function()
+{
+    console.log('taskeel cookie 0 -  - ');
+
+    });
+</script><!-- cached old /data/islamweb_cache/ar/library/maktaba/96f953144e67dccecb19f2a5d9b7dea0 --></div>
+                <!------------------------------------------------------------------->
+
+                <hr style="width:100%;text-align: center;right: 0;left: 0;margin: auto;margin-top: 30px;margin-bottom: 30px;">
+
+                <div class="footnote">
+                    <div class="footnotetitle" style="font-weight: bold;">
+                        الخدمات العلمية
+                    </div>
+                </div>
+
+                <div class="links-booksinfo new-style">
+                    <a href="#" class="nav-tfserhadith" style="background-color:#002d6a;color:white;font-weight:bold;" onclick="javascript: /*$('.labelquran').click();*/" data-bs-toggle="modal" data-bs-target="#modaltabsinfo">
+                        تفسير الآية
+                    </a>
+
+                    <a href="#" onclick="javascript: if(namesloaded==0) { namesloaded=1; $('.labelnames').click(); }" style="font-weight: bold; background-color: rgb(0, 45, 106); color: white; display: none;" class="nav-trgmahadith" data-bs-toggle="modal" data-bs-target="#modaltabsinfo">
+                        ترجمة علم
+
+                    </a>
+                    <a id="treeservicebutton" href="#" onclick="javascript:/* $('.labelmainsubj').click();*/" style="font-weight:bold;background-color:#002d6a;color:white;" class="nav-treehadith" data-bs-toggle="modal" data-bs-target="#modaltabsinfo">
+                        عناوين الشجرة
+                    </a><!--onclick="javascript: /*$('.labelhadith').click();*/"-->
+                    <a href="#" onclick="javascript: if(hadithloaded == 0) { $('.labelhadith').click(); hadithloaded = 1; }" style="font-weight: bold; background-color: rgb(0, 45, 106); color: white; display: none;" class="nav-tkhreghadith" data-bs-toggle="modal" data-bs-target="#modaltabsinfo">
+                        تخريج حديث
+                    </a>
+
+
+                </div>
+
+
+
+
+
+
+
+                <div class="downtab_start"></div> <!-- bookmark for scroll -->
+
+                <!--
+                <div id="downtab" style="display:none;width:100%;text-align:right;float:right;color:#5F98BC">
+
+                    <ul id="nav">
+                        <li id='labelhadith'><a href='#H' class="current">تخريج الحديث</a></li>
+                        <li id='labelmainsubj'><a href='#N'>عناوين الشجرة</a></li><input type="hidden"
+                            id="selectedtab" name="selectedtab" value="labelhadith">
+
+                    </ul>
+
+                    <div id="ajax-content"><img src="images/loading.gif"></div>
+                </div>-->
+
+                <div id="navtxt" class="navtext" style="position:absolute; top:-100px; left:0px; visibility:hidden">
+                </div>
+
+                <input type="hidden" id="totalcount" name="totalcount" value="">
+
+                <input type="hidden" id="idfrom" name="idfrom" value="1">
+                <input type="hidden" id="idto" name="idto" value="2571">
+                <input type="hidden" id="flag" name="flag" value="">
+
+                <script>
+                    $('#tabs h1').click(function () {
+                        var tab = $('.tab_' + $(this).attr('tab'));
+                        if (tab.length) {
+                            // Hide active tab & selected style:
+                            $('#tab_container .tab_active').removeClass('tab_active');
+                            $('#tabs .active').removeClass('active');
+
+                            // Show clicked tab content
+                            tab.addClass('tab_active');
+                            $(this).addClass('active');
+
+                            tab.show("slide", {
+                                direction: "down"
+                            }, 1000);
+                            $(this).show("puff", {}, 10);
+                        }
+                    });
+
+
+                    $(document).ready(function () {
+                        console.log('taskeel cookie 0 -  - ');
+
+                    });
+                </script>
+                <!-- cached old /data/islamweb_cache/ar/library/maktaba/5b6cb8c4e51684b4475bb591f5f3db24 -->
+            </div>
+
+
+
+            <input type="hidden" id="ActiveViewMode" value="1">
+            <div style="display: none;" id="hidden-content" class="popUp">
+                <h3>عناوين الشجرة</h3>
+
+                <div style="overflow-y: auto;height:500px;width:100%;" class="subjtreepopup innerpop form animated bounceIn">
+
+                </div>
+
+            </div>
+
+
+
+
+            </div></div></div></section>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
