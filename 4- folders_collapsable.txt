@@ -1,0 +1,87 @@
+<li class="first-level">
+    		<input type="checkbox" id="a1861">
+    		<label class="plusbutton tree_label" data-level="1" data-id="1861" data-href="nindex.php?id=1861&amp;treeLevel=1&amp;bookid=209&amp;page=bookssubtree&amp;searchtext=&amp;showexact=" id="1861" style="text-decoration:none;list-style:none;color:#000;text-align:right;" data-idfrom="1747" data-idto="1747" data-node="0" data-bookid="209" for="a1861">تفسير سورة الناس</label>
+
+            <ul id="childrens1861" data-id="1861"></ul>
+
+    	  </li>
+
+
+when clickong on the folder
+
+Get :
+GET
+
+scheme
+	https
+host
+	islamweb.net
+filename
+	/ar/library/maktaba/nindex.php
+id
+	1861
+treeLevel
+	1
+bookid
+	209
+page
+	bookssubtree
+searchtext
+
+showexact
+
+Address
+	184.154.97.225:443
+
+
+Response :
+
+<!-- loaded from  redis cache /data/islamweb_cache/ar/library/maktaba/996229fa737731f3371b6260c049919c -->
+
+
+	    <li style="padding: 0px;">
+
+
+
+
+    <ul>
+        <li><span class="tree_label">
+        <a id="1862" style="text-decoration:none; cursor:pointer; font-size: 15px;"
+        style="text-decoration:none; cursor:pointer;"
+                href="/ar/library/content/209/1747/تفسير-قوله-تعالى-قل-أعوذ-برب-الناس-ملك-الناس">
+        تفسير قوله تعالى قل أعوذ برب الناس ملك الناس        </a></span></li>
+    </ul>
+
+    </li>
+
+		<input type="hidden" value="&bookid=209&idfrom=1747&idto=1747" id="HidParam1862" />
+
+<div id="childs1862"  style="display:none;"></div>
+
+
+
+
+Get:
+GET
+
+scheme
+	https
+host
+	islamweb.net
+filename
+	/ar/library/maktaba/search_node.php
+id
+	1861
+bookid
+	209
+flag
+	0
+Address
+	184.154.97.225:443
+
+
+Response :
+1-0,1861-0
+
+
+
